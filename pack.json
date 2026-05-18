@@ -42,7 +42,7 @@
   "instrument_slugs": [
     {
       "slug": "agogo",
-      "num_samples": 46
+      "num_samples": 48
     },
     {
       "slug": "bell",
@@ -50,7 +50,7 @@
     },
     {
       "slug": "bongo",
-      "num_samples": 74
+      "num_samples": 78
     },
     {
       "slug": "cabasa",
@@ -58,7 +58,7 @@
     },
     {
       "slug": "clap",
-      "num_samples": 315
+      "num_samples": 323
     },
     {
       "slug": "clave",
@@ -74,11 +74,11 @@
     },
     {
       "slug": "cowbell",
-      "num_samples": 256
+      "num_samples": 257
     },
     {
       "slug": "crash",
-      "num_samples": 273
+      "num_samples": 280
     },
     {
       "slug": "cuica",
@@ -86,7 +86,7 @@
     },
     {
       "slug": "cymbal",
-      "num_samples": 109
+      "num_samples": 110
     },
     {
       "slug": "fx",
@@ -102,11 +102,11 @@
     },
     {
       "slug": "hihat-closed",
-      "num_samples": 662
+      "num_samples": 686
     },
     {
       "slug": "hihat-open",
-      "num_samples": 448
+      "num_samples": 450
     },
     {
       "slug": "kick",
@@ -114,11 +114,11 @@
     },
     {
       "slug": "perc",
-      "num_samples": 259
+      "num_samples": 263
     },
     {
       "slug": "ride",
-      "num_samples": 235
+      "num_samples": 248
     },
     {
       "slug": "rim",
@@ -126,15 +126,15 @@
     },
     {
       "slug": "shaker",
-      "num_samples": 105
+      "num_samples": 108
     },
     {
       "slug": "snare",
-      "num_samples": 1371
+      "num_samples": 1374
     },
     {
       "slug": "tambourine",
-      "num_samples": 205
+      "num_samples": 217
     },
     {
       "slug": "timbale",
@@ -142,7 +142,7 @@
     },
     {
       "slug": "tom",
-      "num_samples": 1348
+      "num_samples": 1408
     },
     {
       "slug": "triangle",
@@ -150,7 +150,7 @@
     },
     {
       "slug": "unknown",
-      "num_samples": 1034
+      "num_samples": 890
     },
     {
       "slug": "vibraslap",

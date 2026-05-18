@@ -1,5 +1,6 @@
 {
   "id": "yamaha-rx-21",
+  "pack_id": "vol4",
   "name": "Yamaha RX-21",
   "manufacturer": "Yamaha",
   "collection": "Yamaha",
@@ -17,6 +18,7 @@
   ],
   "notes": "Budget digital drum machine; common used",
   "instruments": [
+    "Agogo",
     "Bongo",
     "Clap",
     "Clave",
@@ -28,6 +30,7 @@
     "Hi-Hat Open",
     "Kick",
     "Perc",
+    "Ride",
     "Snare",
     "Tambourine",
     "Tom"
@@ -41,8 +44,11 @@
       "url_path": "yamaha-rx-21/1",
       "num_samples": 9,
       "instruments": [
+        "Clap",
+        "Crash",
         "Hi-Hat Closed",
         "Kick",
+        "Ride",
         "Snare"
       ],
       "samples": [
@@ -57,14 +63,14 @@
         "SNRX-21.wav"
       ],
       "sample_instruments": [
-        "",
-        "",
+        "Clap",
+        "Crash",
         "Hi-Hat Closed",
         "",
         "Kick",
         "",
         "",
-        "",
+        "Ride",
         "Snare"
       ]
     },
@@ -416,6 +422,7 @@
       "url_path": "yamaha-rx-21/4",
       "num_samples": 25,
       "instruments": [
+        "Agogo",
         "Bongo",
         "Clave",
         "Click",
@@ -453,8 +460,8 @@
         "WhistleShort.wav"
       ],
       "sample_instruments": [
-        "",
-        "",
+        "Agogo",
+        "Agogo",
         "Bongo",
         "",
         "",

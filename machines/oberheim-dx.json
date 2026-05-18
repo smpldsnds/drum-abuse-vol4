@@ -1,5 +1,6 @@
 {
   "id": "oberheim-dx",
+  "pack_id": "vol4",
   "name": "Oberheim DX",
   "manufacturer": "Oberheim",
   "collection": "Usa_Uk",
@@ -438,10 +439,12 @@
       "instruments": [
         "Clap",
         "Crash",
+        "Hi-Hat Closed",
         "Kick",
         "Ride",
         "Shaker",
-        "Snare"
+        "Snare",
+        "Tom"
       ],
       "samples": [
         "DX_01_Kick_SP.wav",
@@ -467,14 +470,14 @@
         "Snare",
         "Snare",
         "Snare",
-        "",
-        "",
-        "",
+        "Tom",
+        "Tom",
+        "Tom",
         "Shaker",
         "Shaker",
-        "",
-        "",
-        "",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
         "Crash",
         "Ride",
         "Ride"

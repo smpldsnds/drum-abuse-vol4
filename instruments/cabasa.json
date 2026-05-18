@@ -1,6 +1,7 @@
 [
   {
     "machine_id": "linn-9000",
+    "pack_id": "vol4",
     "machine_name": "Linn 9000",
     "release_year": 1984,
     "url_path": "linn-9000/1",
@@ -8,6 +9,7 @@
   },
   {
     "machine_id": "linn-9000",
+    "pack_id": "vol4",
     "machine_name": "Linn 9000",
     "release_year": 1984,
     "url_path": "linn-9000/1",
@@ -15,6 +17,7 @@
   },
   {
     "machine_id": "linn-9000",
+    "pack_id": "vol4",
     "machine_name": "Linn 9000",
     "release_year": 1984,
     "url_path": "linn-9000/2/8bit Degraded [Mono]",
@@ -22,6 +25,7 @@
   },
   {
     "machine_id": "linn-9000",
+    "pack_id": "vol4",
     "machine_name": "Linn 9000",
     "release_year": 1984,
     "url_path": "linn-9000/2/8bit Degraded [Mono]",
@@ -29,6 +33,7 @@
   },
   {
     "machine_id": "linn-9000",
+    "pack_id": "vol4",
     "machine_name": "Linn 9000",
     "release_year": 1984,
     "url_path": "linn-9000/2/8bit Degraded [Mono]",
@@ -36,6 +41,7 @@
   },
   {
     "machine_id": "linn-9000",
+    "pack_id": "vol4",
     "machine_name": "Linn 9000",
     "release_year": 1984,
     "url_path": "linn-9000/2/8bit Degraded [Mono]",
@@ -43,6 +49,7 @@
   },
   {
     "machine_id": "linn-9000",
+    "pack_id": "vol4",
     "machine_name": "Linn 9000",
     "release_year": 1984,
     "url_path": "linn-9000/2/8bit Degraded [Mono]",
@@ -50,6 +57,7 @@
   },
   {
     "machine_id": "linn-9000",
+    "pack_id": "vol4",
     "machine_name": "Linn 9000",
     "release_year": 1984,
     "url_path": "linn-9000/2/Dry",
@@ -57,6 +65,7 @@
   },
   {
     "machine_id": "linn-9000",
+    "pack_id": "vol4",
     "machine_name": "Linn 9000",
     "release_year": 1984,
     "url_path": "linn-9000/2/Glitch & Distort",
@@ -64,6 +73,7 @@
   },
   {
     "machine_id": "linn-9000",
+    "pack_id": "vol4",
     "machine_name": "Linn 9000",
     "release_year": 1984,
     "url_path": "linn-9000/2/Glitch & Distort",
@@ -71,6 +81,7 @@
   },
   {
     "machine_id": "linn-9000",
+    "pack_id": "vol4",
     "machine_name": "Linn 9000",
     "release_year": 1984,
     "url_path": "linn-9000/2/Glitch & Distort",
@@ -78,6 +89,7 @@
   },
   {
     "machine_id": "linn-9000",
+    "pack_id": "vol4",
     "machine_name": "Linn 9000",
     "release_year": 1984,
     "url_path": "linn-9000/2/Slammed",
@@ -85,6 +97,7 @@
   },
   {
     "machine_id": "linn-9000",
+    "pack_id": "vol4",
     "machine_name": "Linn 9000",
     "release_year": 1984,
     "url_path": "linn-9000/2/Wet",
@@ -92,6 +105,7 @@
   },
   {
     "machine_id": "linn-9000",
+    "pack_id": "vol4",
     "machine_name": "Linn 9000",
     "release_year": 1984,
     "url_path": "linn-9000/2/Wet",
@@ -99,6 +113,7 @@
   },
   {
     "machine_id": "oberheim-dx",
+    "pack_id": "vol4",
     "machine_name": "Oberheim DX",
     "release_year": 1984,
     "url_path": "oberheim-dx/1",
@@ -106,6 +121,7 @@
   },
   {
     "machine_id": "siel-mdp-40",
+    "pack_id": "vol4",
     "machine_name": "Siel MDP-40",
     "release_year": 1984,
     "url_path": "siel-mdp-40/1",
@@ -113,6 +129,7 @@
   },
   {
     "machine_id": "siel-mdp-40",
+    "pack_id": "vol4",
     "machine_name": "Siel MDP-40",
     "release_year": 1984,
     "url_path": "siel-mdp-40/2",
@@ -120,6 +137,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
@@ -127,6 +145,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
@@ -134,6 +153,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
@@ -141,6 +161,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
@@ -148,6 +169,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
@@ -155,6 +177,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
@@ -162,6 +185,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
@@ -169,6 +193,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
@@ -176,6 +201,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
@@ -183,6 +209,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
@@ -190,6 +217,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Dry",
@@ -197,6 +225,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Dry",
@@ -204,6 +233,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Glitch & Distort",
@@ -211,6 +241,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Glitch & Distort",
@@ -218,6 +249,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Glitch & Distort",
@@ -225,6 +257,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Glitch & Distort",
@@ -232,6 +265,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Glitch & Distort",
@@ -239,6 +273,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Glitch & Distort",
@@ -246,6 +281,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Slammed",
@@ -253,6 +289,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Slammed",
@@ -260,6 +297,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Wet",
@@ -267,6 +305,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Wet",
@@ -274,6 +313,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Wet",
@@ -281,6 +321,7 @@
   },
   {
     "machine_id": "emu-sp-12",
+    "pack_id": "vol4",
     "machine_name": "EMU SP-12",
     "release_year": 1985,
     "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Wet",
@@ -288,6 +329,7 @@
   },
   {
     "machine_id": "ensoniq-mirage",
+    "pack_id": "vol4",
     "machine_name": "Ensoniq Mirage",
     "release_year": 1985,
     "url_path": "ensoniq-mirage/1",
@@ -295,6 +337,7 @@
   },
   {
     "machine_id": "ensoniq-mirage",
+    "pack_id": "vol4",
     "machine_name": "Ensoniq Mirage",
     "release_year": 1985,
     "url_path": "ensoniq-mirage/1",
@@ -302,6 +345,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
@@ -309,6 +353,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
@@ -316,6 +361,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
@@ -323,6 +369,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
@@ -330,6 +377,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
@@ -337,6 +385,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
@@ -344,6 +393,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
@@ -351,6 +401,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
@@ -358,6 +409,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
@@ -365,6 +417,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
@@ -372,6 +425,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/Dry",
@@ -379,6 +433,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/Dry",
@@ -386,6 +441,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/Glitch & Distort",
@@ -393,6 +449,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/Glitch & Distort",
@@ -400,6 +457,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/Glitch & Distort",
@@ -407,6 +465,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/Glitch & Distort",
@@ -414,6 +473,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/Glitch & Distort",
@@ -421,6 +481,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/Glitch & Distort",
@@ -428,6 +489,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/Slammed",
@@ -435,6 +497,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/Slammed",
@@ -442,6 +505,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/Wet",
@@ -449,6 +513,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/Wet",
@@ -456,6 +521,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/Wet",
@@ -463,6 +529,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/2/Wet",
@@ -470,6 +537,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/3",
@@ -477,6 +545,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -484,6 +553,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -491,6 +561,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -498,6 +569,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -505,6 +577,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -512,6 +585,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -519,6 +593,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -526,6 +601,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -533,6 +609,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -540,6 +617,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -547,6 +625,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -554,6 +633,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -561,6 +641,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -568,6 +649,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -575,6 +657,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -582,6 +665,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -589,6 +673,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -596,6 +681,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -603,6 +689,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -610,6 +697,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -617,6 +705,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -624,6 +713,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -631,6 +721,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -638,6 +729,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -645,6 +737,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -652,6 +745,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -659,6 +753,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -666,6 +761,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -673,6 +769,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -680,6 +777,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -687,6 +785,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -694,6 +793,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -701,6 +801,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -708,6 +809,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -715,6 +817,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -722,6 +825,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -729,6 +833,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -736,6 +841,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -743,6 +849,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -750,6 +857,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -757,6 +865,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -764,6 +873,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -771,6 +881,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -778,6 +889,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -785,6 +897,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -792,6 +905,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -799,6 +913,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -806,6 +921,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -813,6 +929,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -820,6 +937,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -827,6 +945,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -834,6 +953,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -841,6 +961,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -848,6 +969,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -855,6 +977,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -862,6 +985,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -869,6 +993,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -876,6 +1001,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -883,6 +1009,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -890,6 +1017,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -897,6 +1025,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -904,6 +1033,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -911,6 +1041,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -918,6 +1049,7 @@
   },
   {
     "machine_id": "korg-ddd-1",
+    "pack_id": "vol4",
     "machine_name": "Korg DDD-1",
     "release_year": 1985,
     "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Cabasa",
@@ -925,6 +1057,7 @@
   },
   {
     "machine_id": "roland-tr-727",
+    "pack_id": "vol4",
     "machine_name": "Roland TR-727",
     "release_year": 1985,
     "url_path": "roland-tr-727/5/Orig",
@@ -932,6 +1065,7 @@
   },
   {
     "machine_id": "roland-tr-727",
+    "pack_id": "vol4",
     "machine_name": "Roland TR-727",
     "release_year": 1985,
     "url_path": "roland-tr-727/5/TubeAmp-Clean",
@@ -939,6 +1073,7 @@
   },
   {
     "machine_id": "roland-tr-727",
+    "pack_id": "vol4",
     "machine_name": "Roland TR-727",
     "release_year": 1985,
     "url_path": "roland-tr-727/5/TubeAmp-Dirty",
@@ -946,6 +1081,7 @@
   },
   {
     "machine_id": "roland-tr-727",
+    "pack_id": "vol4",
     "machine_name": "Roland TR-727",
     "release_year": 1985,
     "url_path": "roland-tr-727/5/TubeEQ",
@@ -953,6 +1089,7 @@
   },
   {
     "machine_id": "suzuki-rpm-40",
+    "pack_id": "vol4",
     "machine_name": "Suzuki RPM-40",
     "release_year": 1985,
     "url_path": "suzuki-rpm-40/1",
@@ -960,6 +1097,7 @@
   },
   {
     "machine_id": "suzuki-rpm-40",
+    "pack_id": "vol4",
     "machine_name": "Suzuki RPM-40",
     "release_year": 1985,
     "url_path": "suzuki-rpm-40/1",
@@ -967,6 +1105,7 @@
   },
   {
     "machine_id": "suzuki-rpm-40",
+    "pack_id": "vol4",
     "machine_name": "Suzuki RPM-40",
     "release_year": 1985,
     "url_path": "suzuki-rpm-40/1",
@@ -974,6 +1113,7 @@
   },
   {
     "machine_id": "suzuki-rpm-40",
+    "pack_id": "vol4",
     "machine_name": "Suzuki RPM-40",
     "release_year": 1985,
     "url_path": "suzuki-rpm-40/1",
@@ -981,6 +1121,7 @@
   },
   {
     "machine_id": "suzuki-rpm-40",
+    "pack_id": "vol4",
     "machine_name": "Suzuki RPM-40",
     "release_year": 1985,
     "url_path": "suzuki-rpm-40/1",
@@ -988,6 +1129,7 @@
   },
   {
     "machine_id": "suzuki-rpm-40",
+    "pack_id": "vol4",
     "machine_name": "Suzuki RPM-40",
     "release_year": 1985,
     "url_path": "suzuki-rpm-40/1",
@@ -995,6 +1137,7 @@
   },
   {
     "machine_id": "suzuki-rpm-40",
+    "pack_id": "vol4",
     "machine_name": "Suzuki RPM-40",
     "release_year": 1985,
     "url_path": "suzuki-rpm-40/1",

@@ -1,5 +1,6 @@
 {
   "id": "soundmaster-stix-st-305",
+  "pack_id": "vol4",
   "name": "SoundMaster Stix ST-305",
   "manufacturer": "SoundMaster",
   "collection": "Japan",
@@ -19,6 +20,8 @@
   "notes": "Budget drum machine; rare",
   "instruments": [
     "Cymbal",
+    "Hi-Hat Closed",
+    "Hi-Hat Open",
     "Kick",
     "Snare",
     "Tom"
@@ -33,6 +36,8 @@
       "num_samples": 7,
       "instruments": [
         "Cymbal",
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
         "Kick",
         "Snare",
         "Tom"
@@ -47,11 +52,11 @@
         "kick1.wav"
       ],
       "sample_instruments": [
-        "",
+        "Hi-Hat Closed",
         "Cymbal",
         "Tom",
         "Tom",
-        "",
+        "Hi-Hat Open",
         "Snare",
         "Kick"
       ]

@@ -1,6 +1,7 @@
 [
   {
     "machine_id": "roland-tr-707",
+    "pack_id": "vol4",
     "machine_name": "Roland TR-707",
     "release_year": 1984,
     "url_path": "roland-tr-707/2",
@@ -8,6 +9,7 @@
   },
   {
     "machine_id": "roland-tr-707",
+    "pack_id": "vol4",
     "machine_name": "Roland TR-707",
     "release_year": 1984,
     "url_path": "roland-tr-707/5",

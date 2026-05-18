@@ -1,5 +1,6 @@
 {
   "id": "yamaha-rx-15",
+  "pack_id": "vol4",
   "name": "Yamaha RX-15",
   "manufacturer": "Yamaha",
   "collection": "Yamaha",
@@ -38,6 +39,7 @@
       "url_path": "yamaha-rx-15/1",
       "num_samples": 15,
       "instruments": [
+        "Clap",
         "Cowbell",
         "Crash",
         "Hi-Hat Closed",
@@ -71,7 +73,7 @@
         "Hi-Hat Closed",
         "Cowbell",
         "Crash",
-        "",
+        "Clap",
         "Hi-Hat Open",
         "Ride",
         "Rim",

@@ -1,5 +1,6 @@
 {
   "id": "casio-mt-800",
+  "pack_id": "vol4",
   "name": "Casio MT-800",
   "manufacturer": "Casio",
   "collection": "Japan",
@@ -57,7 +58,7 @@
         "Snare",
         "Tom",
         "Tom",
-        ""
+        "Tom"
       ]
     },
     {

@@ -1,5 +1,6 @@
 {
   "id": "korg-ddd-1",
+  "pack_id": "vol4",
   "name": "Korg DDD-1",
   "manufacturer": "Korg",
   "collection": "Korg",
@@ -40,8 +41,14 @@
       "url_path": "korg-ddd-1/1",
       "num_samples": 14,
       "instruments": [
+        "Clap",
+        "Crash",
+        "Hi-Hat Closed",
         "Kick",
-        "Rim"
+        "Ride",
+        "Rim",
+        "Tambourine",
+        "Tom"
       ],
       "samples": [
         "Dbd01.wav",
@@ -62,18 +69,18 @@
       "sample_instruments": [
         "Kick",
         "Kick",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
+        "Clap",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Crash",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Ride",
         "Rim",
         "",
         "",
-        "",
-        ""
+        "Tambourine",
+        "Tom"
       ]
     },
     {

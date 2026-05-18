@@ -1,5 +1,6 @@
 {
   "id": "casio-sk-1",
+  "pack_id": "vol4",
   "name": "Casio SK-1",
   "manufacturer": "Casio",
   "collection": "Japan",
@@ -58,7 +59,7 @@
       ],
       "sample_instruments": [
         "Hi-Hat Closed",
-        "",
+        "Hi-Hat Closed",
         "Cowbell",
         "Cowbell",
         "",
@@ -78,7 +79,9 @@
       "url_path": "casio-sk-1/2",
       "num_samples": 8,
       "instruments": [
+        "Hi-Hat Closed",
         "Kick",
+        "Snare",
         "Tom"
       ],
       "samples": [
@@ -93,13 +96,13 @@
       ],
       "sample_instruments": [
         "",
-        "",
+        "Hi-Hat Closed",
         "Tom",
         "Kick",
         "",
         "Tom",
-        "",
-        ""
+        "Hi-Hat Closed",
+        "Snare"
       ]
     },
     {

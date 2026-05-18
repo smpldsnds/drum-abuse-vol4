@@ -1,5 +1,6 @@
 {
   "id": "klone-dual-percussion-synthesiser",
+  "pack_id": "vol4",
   "name": "Klone Dual Percussion Synthesiser",
   "manufacturer": "Honky Tonk",
   "collection": "Usa_Uk",
@@ -1397,8 +1398,8 @@
         "Perc",
         "Perc",
         "FX",
-        "",
-        "",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
         "FX",
         "FX",
         "FX",

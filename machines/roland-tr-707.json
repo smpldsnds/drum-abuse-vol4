@@ -1,5 +1,6 @@
 {
   "id": "roland-tr-707",
+  "pack_id": "vol4",
   "name": "Roland TR-707",
   "manufacturer": "Roland",
   "collection": "Roland",
@@ -40,8 +41,17 @@
       "url_path": "roland-tr-707/1",
       "num_samples": 15,
       "instruments": [
+        "Clap",
+        "Cowbell",
+        "Crash",
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
         "Kick",
-        "Rim"
+        "Ride",
+        "Rim",
+        "Snare",
+        "Tambourine",
+        "Tom"
       ],
       "samples": [
         "TR-707Clap.wav",
@@ -61,21 +71,21 @@
         "TR-707Tom_Mid.wav"
       ],
       "sample_instruments": [
-        "",
-        "",
-        "",
-        "",
-        "",
+        "Clap",
+        "Cowbell",
+        "Crash",
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
         "Kick",
         "Kick",
-        "",
+        "Ride",
         "Rim",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Snare",
+        "Snare",
+        "Tambourine",
+        "Tom",
+        "Tom",
+        "Tom"
       ]
     },
     {
@@ -84,6 +94,7 @@
       "url_path": "roland-tr-707/2",
       "num_samples": 15,
       "instruments": [
+        "Clap",
         "Cowbell",
         "Crash",
         "Gong",
@@ -117,7 +128,7 @@
         "Kick",
         "Cowbell",
         "Crash",
-        "",
+        "Clap",
         "Hi-Hat Closed",
         "Hi-Hat Open",
         "Tom",
@@ -144,6 +155,7 @@
         "Ride",
         "Rim",
         "Snare",
+        "Tambourine",
         "Tom"
       ],
       "samples": [
@@ -173,12 +185,12 @@
         "Hi-Hat Closed",
         "Tom",
         "Tom",
-        "",
+        "Tom",
         "Ride",
         "Rim",
         "Snare",
         "Snare",
-        ""
+        "Tambourine"
       ]
     },
     {
@@ -662,6 +674,7 @@
       "url_path": "roland-tr-707/5",
       "num_samples": 15,
       "instruments": [
+        "Clap",
         "Cowbell",
         "Crash",
         "Gong",
@@ -696,7 +709,7 @@
         "Crash",
         "Hi-Hat Closed",
         "Hi-Hat Closed",
-        "",
+        "Clap",
         "Tom",
         "Tom",
         "Tom",

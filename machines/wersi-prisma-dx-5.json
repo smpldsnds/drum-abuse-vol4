@@ -1,5 +1,6 @@
 {
   "id": "wersi-prisma-dx-5",
+  "pack_id": "vol4",
   "name": "Wersi Prisma DX-5",
   "manufacturer": "Wersi",
   "collection": "Europe",
@@ -29,6 +30,7 @@
     "Rim",
     "Shaker",
     "Snare",
+    "Tambourine",
     "Tom",
     "Whistle"
   ],
@@ -53,6 +55,7 @@
         "Rim",
         "Shaker",
         "Snare",
+        "Tambourine",
         "Tom",
         "Whistle"
       ],
@@ -99,7 +102,7 @@
         "Snare",
         "Snare",
         "",
-        "",
+        "Tambourine",
         "Tom",
         "Tom",
         "Whistle"

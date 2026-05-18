@@ -1,5 +1,6 @@
 {
   "id": "roland-tr-727",
+  "pack_id": "vol4",
   "name": "Roland TR-727",
   "manufacturer": "Roland",
   "collection": "Roland",
@@ -38,7 +39,9 @@
       "url_path": "roland-tr-727/1",
       "num_samples": 13,
       "instruments": [
-        "Conga"
+        "Bongo",
+        "Conga",
+        "Shaker"
       ],
       "samples": [
         "TR-727Bongo_Hi.wav",
@@ -56,13 +59,13 @@
         "TR-727Whistle_S.wav"
       ],
       "sample_instruments": [
-        "",
-        "",
+        "Bongo",
+        "Bongo",
         "",
         "Conga",
         "Conga",
         "Conga",
-        "",
+        "Shaker",
         "",
         "",
         "",
@@ -77,7 +80,9 @@
       "url_path": "roland-tr-727/2",
       "num_samples": 26,
       "instruments": [
-        "Hi-Hat Open"
+        "Hi-Hat Open",
+        "Perc",
+        "Tambourine"
       ],
       "samples": [
         "727agogh.wav",
@@ -118,6 +123,8 @@
         "",
         "",
         "",
+        "Tambourine",
+        "Tambourine",
         "",
         "",
         "",
@@ -127,9 +134,7 @@
         "",
         "",
         "",
-        "",
-        "",
-        "",
+        "Perc",
         "",
         "",
         "",
@@ -142,7 +147,9 @@
       "url_path": "roland-tr-727/3",
       "num_samples": 13,
       "instruments": [
-        "Conga"
+        "Bongo",
+        "Conga",
+        "Shaker"
       ],
       "samples": [
         "ChimesTR-727.wav",
@@ -163,14 +170,14 @@
         "",
         "Conga",
         "",
-        "",
+        "Bongo",
+        "Conga",
+        "Bongo",
         "Conga",
         "",
-        "Conga",
+        "Shaker",
         "",
-        "",
-        "",
-        "",
+        "Shaker",
         "",
         ""
       ]
@@ -1095,7 +1102,9 @@
       "url_path": "roland-tr-727/5/different set",
       "num_samples": 26,
       "instruments": [
-        "Hi-Hat Open"
+        "Hi-Hat Open",
+        "Perc",
+        "Tambourine"
       ],
       "samples": [
         "Agogh.wav",
@@ -1139,14 +1148,14 @@
         "",
         "",
         "",
+        "Perc",
         "",
         "",
         "",
         "",
         "",
-        "",
-        "",
-        "",
+        "Tambourine",
+        "Tambourine",
         "",
         "",
         "",

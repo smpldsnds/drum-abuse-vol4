@@ -1,6 +1,7 @@
 [
   {
     "id": "dr-b-hm-digital-drums",
+    "pack_id": "vol4",
     "name": "Dr. Böhm Digital Drums",
     "manufacturer": "Bohm",
     "collection": "Europe",
@@ -34,6 +35,7 @@
   },
   {
     "id": "casio-mt-500",
+    "pack_id": "vol4",
     "name": "Casio MT-500",
     "manufacturer": "Casio",
     "collection": "Japan",
@@ -66,6 +68,7 @@
   },
   {
     "id": "klone-dual-percussion-synthesiser",
+    "pack_id": "vol4",
     "name": "Klone Dual Percussion Synthesiser",
     "manufacturer": "Honky Tonk",
     "collection": "Usa_Uk",
@@ -100,6 +103,7 @@
   },
   {
     "id": "kawai-acr-20",
+    "pack_id": "vol4",
     "name": "Kawai ACR-20",
     "manufacturer": "Kawai",
     "collection": "Japan",
@@ -119,6 +123,7 @@
       "Hi-Hat Closed",
       "Kick",
       "Snare",
+      "Tambourine",
       "Tom"
     ],
     "num_sets": 1,
@@ -127,6 +132,7 @@
   },
   {
     "id": "kawai-sx-240",
+    "pack_id": "vol4",
     "name": "Kawai SX-240",
     "manufacturer": "Kawai",
     "collection": "Japan",
@@ -153,6 +159,7 @@
   },
   {
     "id": "korg-pss-50",
+    "pack_id": "vol4",
     "name": "Korg PSS-50",
     "manufacturer": "Korg",
     "collection": "Korg",
@@ -181,6 +188,7 @@
   },
   {
     "id": "kurzweil-electrodrum-prototype",
+    "pack_id": "vol4",
     "name": "Kurzweil ElectroDrum Prototype",
     "manufacturer": "Kurzweil",
     "collection": "Usa_Uk",
@@ -206,6 +214,7 @@
   },
   {
     "id": "linn-9000",
+    "pack_id": "vol4",
     "name": "Linn 9000",
     "manufacturer": "Linn Electronics",
     "collection": "Usa_Uk",
@@ -245,6 +254,7 @@
   },
   {
     "id": "linn-linndrum-lm-2-vinyl",
+    "pack_id": "vol4",
     "name": "Linn LinnDrum LM-2 Vinyl",
     "manufacturer": "Linn Electronics",
     "collection": "Usa_Uk",
@@ -279,6 +289,7 @@
   },
   {
     "id": "nasta-hitstix-2",
+    "pack_id": "vol4",
     "name": "Nasta HitStix-2",
     "manufacturer": "Nasta",
     "collection": "Usa_Uk",
@@ -309,6 +320,7 @@
   },
   {
     "id": "oberheim-dx",
+    "pack_id": "vol4",
     "name": "Oberheim DX",
     "manufacturer": "Oberheim",
     "collection": "Usa_Uk",
@@ -344,6 +356,7 @@
   },
   {
     "id": "rhodes-polaris",
+    "pack_id": "vol4",
     "name": "Rhodes Polaris",
     "manufacturer": "Rhodes",
     "collection": "Usa_Uk",
@@ -371,6 +384,7 @@
   },
   {
     "id": "boss-hc-2",
+    "pack_id": "vol4",
     "name": "Boss HC-2",
     "manufacturer": "Roland",
     "collection": "Roland",
@@ -395,6 +409,7 @@
   },
   {
     "id": "boss-pc-2",
+    "pack_id": "vol4",
     "name": "Boss PC-2",
     "manufacturer": "Roland",
     "collection": "Roland",
@@ -418,6 +433,7 @@
   },
   {
     "id": "roland-juno-106",
+    "pack_id": "vol4",
     "name": "Roland Juno-106",
     "manufacturer": "Roland",
     "collection": "Roland",
@@ -451,6 +467,7 @@
   },
   {
     "id": "roland-tr-707",
+    "pack_id": "vol4",
     "name": "Roland TR-707",
     "manufacturer": "Roland",
     "collection": "Roland",
@@ -487,6 +504,7 @@
   },
   {
     "id": "siel-mdp-40",
+    "pack_id": "vol4",
     "name": "Siel MDP-40",
     "manufacturer": "Siel",
     "collection": "Europe",
@@ -520,6 +538,7 @@
   },
   {
     "id": "simmons-sds-7",
+    "pack_id": "vol4",
     "name": "Simmons SDS-7",
     "manufacturer": "Simmons",
     "collection": "Usa_Uk",
@@ -543,6 +562,7 @@
   },
   {
     "id": "soundmaster-stix-st-305",
+    "pack_id": "vol4",
     "name": "SoundMaster Stix ST-305",
     "manufacturer": "SoundMaster",
     "collection": "Japan",
@@ -561,6 +581,8 @@
     ],
     "instruments": [
       "Cymbal",
+      "Hi-Hat Closed",
+      "Hi-Hat Open",
       "Kick",
       "Snare",
       "Tom"
@@ -571,6 +593,7 @@
   },
   {
     "id": "tama-ts-500",
+    "pack_id": "vol4",
     "name": "Tama TS-500",
     "manufacturer": "Tama",
     "collection": "Japan",
@@ -598,6 +621,7 @@
   },
   {
     "id": "yamaha-rx-11",
+    "pack_id": "vol4",
     "name": "Yamaha RX-11",
     "manufacturer": "Yamaha",
     "collection": "Yamaha",
@@ -632,6 +656,7 @@
   },
   {
     "id": "casio-ct-310",
+    "pack_id": "vol4",
     "name": "Casio CT-310",
     "manufacturer": "Casio",
     "collection": "Japan",
@@ -654,6 +679,7 @@
   },
   {
     "id": "casio-mt-800",
+    "pack_id": "vol4",
     "name": "Casio MT-800",
     "manufacturer": "Casio",
     "collection": "Japan",
@@ -683,6 +709,7 @@
   },
   {
     "id": "casio-pt-68",
+    "pack_id": "vol4",
     "name": "Casio PT-68",
     "manufacturer": "Casio",
     "collection": "Japan",
@@ -709,6 +736,7 @@
   },
   {
     "id": "casio-pt-82",
+    "pack_id": "vol4",
     "name": "Casio PT-82",
     "manufacturer": "Casio",
     "collection": "Japan",
@@ -731,6 +759,7 @@
   },
   {
     "id": "casio-sk-1",
+    "pack_id": "vol4",
     "name": "Casio SK-1",
     "manufacturer": "Casio",
     "collection": "Japan",
@@ -761,6 +790,7 @@
   },
   {
     "id": "emu-sp-12",
+    "pack_id": "vol4",
     "name": "EMU SP-12",
     "manufacturer": "E-mu Systems",
     "collection": "Usa_Uk",
@@ -807,6 +837,7 @@
   },
   {
     "id": "ensoniq-mirage",
+    "pack_id": "vol4",
     "name": "Ensoniq Mirage",
     "manufacturer": "Ensoniq",
     "collection": "Usa_Uk",
@@ -843,6 +874,7 @@
   },
   {
     "id": "hing-hon-ek-001",
+    "pack_id": "vol4",
     "name": "Hing-Hon EK-001",
     "manufacturer": "Hing-Hon",
     "collection": "Japan",
@@ -871,6 +903,7 @@
   },
   {
     "id": "korg-ddd-1",
+    "pack_id": "vol4",
     "name": "Korg DDD-1",
     "manufacturer": "Korg",
     "collection": "Korg",
@@ -907,6 +940,7 @@
   },
   {
     "id": "atlantex-mpc-1",
+    "pack_id": "vol4",
     "name": "Atlantex MPC-1",
     "manufacturer": "M.P.C. Electronics",
     "collection": "Japan",
@@ -937,6 +971,7 @@
   },
   {
     "id": "pearl-sc-40",
+    "pack_id": "vol4",
     "name": "Pearl SC-40",
     "manufacturer": "Pearl",
     "collection": "Japan",
@@ -966,6 +1001,7 @@
   },
   {
     "id": "roland-super-quartet-mks-7",
+    "pack_id": "vol4",
     "name": "Roland Super Quartet MKS-7",
     "manufacturer": "Roland",
     "collection": "Roland",
@@ -998,6 +1034,7 @@
   },
   {
     "id": "roland-tr-727",
+    "pack_id": "vol4",
     "name": "Roland TR-727",
     "manufacturer": "Roland",
     "collection": "Roland",
@@ -1032,6 +1069,7 @@
   },
   {
     "id": "simmons-sds-1000",
+    "pack_id": "vol4",
     "name": "Simmons SDS-1000",
     "manufacturer": "Simmons",
     "collection": "Usa_Uk",
@@ -1058,6 +1096,7 @@
   },
   {
     "id": "simmons-sds-8",
+    "pack_id": "vol4",
     "name": "Simmons SDS-8",
     "manufacturer": "Simmons",
     "collection": "Usa_Uk",
@@ -1085,6 +1124,7 @@
   },
   {
     "id": "simmons-sds-9",
+    "pack_id": "vol4",
     "name": "Simmons SDS-9",
     "manufacturer": "Simmons",
     "collection": "Usa_Uk",
@@ -1112,6 +1152,7 @@
   },
   {
     "id": "sony-drp-1",
+    "pack_id": "vol4",
     "name": "Sony DRP-1",
     "manufacturer": "Sony",
     "collection": "Japan",
@@ -1143,6 +1184,7 @@
   },
   {
     "id": "suzuki-rpm-40",
+    "pack_id": "vol4",
     "name": "Suzuki RPM-40",
     "manufacturer": "Suzuki",
     "collection": "Japan",
@@ -1166,7 +1208,8 @@
       "Hi-Hat Closed",
       "Kick",
       "Rim",
-      "Snare"
+      "Snare",
+      "Tom"
     ],
     "num_sets": 2,
     "num_samples": 104,
@@ -1174,6 +1217,7 @@
   },
   {
     "id": "technics-ax-5",
+    "pack_id": "vol4",
     "name": "Technics AX-5",
     "manufacturer": "Technics",
     "collection": "Japan",
@@ -1210,6 +1254,7 @@
   },
   {
     "id": "technics-pcm-dp-50",
+    "pack_id": "vol4",
     "name": "Technics PCM DP-50",
     "manufacturer": "Technics",
     "collection": "Japan",
@@ -1245,6 +1290,7 @@
   },
   {
     "id": "wersi-prisma-dx-5",
+    "pack_id": "vol4",
     "name": "Wersi Prisma DX-5",
     "manufacturer": "Wersi",
     "collection": "Europe",
@@ -1273,6 +1319,7 @@
       "Rim",
       "Shaker",
       "Snare",
+      "Tambourine",
       "Tom",
       "Whistle"
     ],
@@ -1282,6 +1329,7 @@
   },
   {
     "id": "yamaha-dd-5",
+    "pack_id": "vol4",
     "name": "Yamaha DD-5",
     "manufacturer": "Yamaha",
     "collection": "Yamaha",
@@ -1315,6 +1363,7 @@
   },
   {
     "id": "yamaha-rx-15",
+    "pack_id": "vol4",
     "name": "Yamaha RX-15",
     "manufacturer": "Yamaha",
     "collection": "Yamaha",
@@ -1349,6 +1398,7 @@
   },
   {
     "id": "yamaha-rx-21",
+    "pack_id": "vol4",
     "name": "Yamaha RX-21",
     "manufacturer": "Yamaha",
     "collection": "Yamaha",
@@ -1365,6 +1415,7 @@
       "classic"
     ],
     "instruments": [
+      "Agogo",
       "Bongo",
       "Clap",
       "Clave",
@@ -1376,6 +1427,7 @@
       "Hi-Hat Open",
       "Kick",
       "Perc",
+      "Ride",
       "Snare",
       "Tambourine",
       "Tom"
@@ -1386,6 +1438,7 @@
   },
   {
     "id": "yamaha-rx-5",
+    "pack_id": "vol4",
     "name": "Yamaha RX-5",
     "manufacturer": "Yamaha",
     "collection": "Yamaha",
