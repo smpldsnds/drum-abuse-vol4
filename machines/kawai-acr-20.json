@@ -1,0 +1,68 @@
+{
+  "id": "kawai-acr-20",
+  "name": "Kawai ACR-20",
+  "manufacturer": "Kawai",
+  "collection": "Japan",
+  "country": null,
+  "images": [
+    "Kawai ACR-20.jpg"
+  ],
+  "release_year": 1984,
+  "release_year_approx": true,
+  "discontinued_year": 1988,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "vintage"
+  ],
+  "notes": "Vintage Kawai drum machine; uncommon",
+  "instruments": [
+    "Hi-Hat Closed",
+    "Kick",
+    "Snare",
+    "Tom"
+  ],
+  "num_sets": 1,
+  "num_samples": 11,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "kawai-acr-20/1",
+      "num_samples": 11,
+      "instruments": [
+        "Hi-Hat Closed",
+        "Kick",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BassDrum1.wav",
+        "HH_1.wav",
+        "HH_2.wav",
+        "HH_3.wav",
+        "HH_crash.wav",
+        "HH_ride.wav",
+        "Shtamb.wav",
+        "SnareDrum_1.wav",
+        "SnareDrum_clap.wav",
+        "SnareDrum_rim.wav",
+        "Tom1.wav"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "",
+        "Snare",
+        "Snare",
+        "Snare",
+        "Tom"
+      ]
+    }
+  ],
+  "total_bytes": 1791524
+}

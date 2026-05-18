@@ -1,0 +1,73 @@
+{
+  "id": "boss-pc-2",
+  "name": "Boss PC-2",
+  "manufacturer": "Roland",
+  "collection": "Roland",
+  "country": null,
+  "images": [
+    "Boss PC-2.jpg"
+  ],
+  "release_year": 1984,
+  "release_year_approx": true,
+  "discontinued_year": 1988,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "vintage",
+    "rare"
+  ],
+  "notes": "Percussion synthesizer controller; rare",
+  "instruments": [],
+  "num_sets": 1,
+  "num_samples": 18,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "boss-pc-2/1",
+      "num_samples": 18,
+      "instruments": [],
+      "samples": [
+        "1.WAV",
+        "10.WAV",
+        "11.WAV",
+        "12.WAV",
+        "13.WAV",
+        "14.WAV",
+        "15.WAV",
+        "16.WAV",
+        "17.WAV",
+        "18.WAV",
+        "2.WAV",
+        "3.WAV",
+        "4.WAV",
+        "5.WAV",
+        "6.WAV",
+        "7.WAV",
+        "8.WAV",
+        "9.WAV"
+      ],
+      "sample_instruments": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "total_bytes": 1781812
+}

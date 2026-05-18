@@ -1,0 +1,660 @@
+{
+  "id": "simmons-sds-9",
+  "name": "Simmons SDS-9",
+  "manufacturer": "Simmons",
+  "collection": "Usa_Uk",
+  "country": null,
+  "images": [
+    "Simmons SDS-9.jpg"
+  ],
+  "release_year": 1985,
+  "release_year_approx": true,
+  "discontinued_year": 1989,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "classic"
+  ],
+  "notes": "Simmons module; uncommon",
+  "instruments": [
+    "Kick",
+    "Rim",
+    "Snare",
+    "Tom"
+  ],
+  "num_sets": 22,
+  "num_samples": 142,
+  "sample_sets": [
+    {
+      "path": "1/SDS9_Factory A1",
+      "set": "1",
+      "url_path": "simmons-sds-9/1/SDS9_Factory A1",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.wav",
+        "HT.wav",
+        "LT.wav",
+        "MT.wav",
+        "RM.wav",
+        "SN.wav"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "10/SDS9_Factory B5",
+      "set": "10",
+      "url_path": "simmons-sds-9/10/SDS9_Factory B5",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.WAV",
+        "HT.WAV",
+        "LT.WAV",
+        "MT.WAV",
+        "RM.WAV",
+        "SN.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "11/SDS9_Factory C1",
+      "set": "11",
+      "url_path": "simmons-sds-9/11/SDS9_Factory C1",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.WAV",
+        "HT.WAV",
+        "LT.WAV",
+        "MT.WAV",
+        "RM.WAV",
+        "SN.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "12/SDS9_Factory C2",
+      "set": "12",
+      "url_path": "simmons-sds-9/12/SDS9_Factory C2",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.WAV",
+        "HT.WAV",
+        "LT.WAV",
+        "MT.WAV",
+        "RM.WAV",
+        "SD.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "13/SDS9_Factory C3",
+      "set": "13",
+      "url_path": "simmons-sds-9/13/SDS9_Factory C3",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.WAV",
+        "HT.WAV",
+        "LT.WAV",
+        "MT.WAV",
+        "RM.WAV",
+        "SN.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "14/SDS9_Factory C4",
+      "set": "14",
+      "url_path": "simmons-sds-9/14/SDS9_Factory C4",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.WAV",
+        "HT.wav",
+        "LT.wav",
+        "MT.wav",
+        "RM.WAV",
+        "SN.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "15/SDS9_Factory C5",
+      "set": "15",
+      "url_path": "simmons-sds-9/15/SDS9_Factory C5",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.WAV",
+        "HT.WAV",
+        "LT.WAV",
+        "MT.WAV",
+        "RM.WAV",
+        "SN.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "16/SDS9_Factory D1",
+      "set": "16",
+      "url_path": "simmons-sds-9/16/SDS9_Factory D1",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.WAV",
+        "HT.WAV",
+        "LT.WAV",
+        "MT.WAV",
+        "RM.WAV",
+        "SN.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "17/SDS9_Factory D2",
+      "set": "17",
+      "url_path": "simmons-sds-9/17/SDS9_Factory D2",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.WAV",
+        "HT.WAV",
+        "LT.WAV",
+        "MT.WAV",
+        "RM.WAV",
+        "SN.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "18/SDS9_Factory D3",
+      "set": "18",
+      "url_path": "simmons-sds-9/18/SDS9_Factory D3",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.WAV",
+        "HT.WAV",
+        "LT.WAV",
+        "MT.WAV",
+        "RM.WAV",
+        "SN.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "19/SDS9_Factory D4",
+      "set": "19",
+      "url_path": "simmons-sds-9/19/SDS9_Factory D4",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.WAV",
+        "HT.WAV",
+        "LT.WAV",
+        "MT.WAV",
+        "RM.WAV",
+        "SN.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "2/SDS9_Factory A2",
+      "set": "2",
+      "url_path": "simmons-sds-9/2/SDS9_Factory A2",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.wav",
+        "HT.wav",
+        "LT.wav",
+        "MT.wav",
+        "RM.wav",
+        "SN.wav"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "20/SDS9_Factory D5",
+      "set": "20",
+      "url_path": "simmons-sds-9/20/SDS9_Factory D5",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.WAV",
+        "HT.WAV",
+        "LT.WAV",
+        "MT.WAV",
+        "RM.WAV",
+        "SN.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "21/SDS9_Rimshots",
+      "set": "21",
+      "url_path": "simmons-sds-9/21/SDS9_Rimshots",
+      "num_samples": 16,
+      "instruments": [
+        "Rim"
+      ],
+      "samples": [
+        "RM.WAV",
+        "RM1_B.WAV",
+        "RM2_A.WAV",
+        "RM2_B.WAV",
+        "RM3_A.WAV",
+        "RM3_B.WAV",
+        "RM4_A.WAV",
+        "RM4_B.WAV",
+        "RM5_A.WAV",
+        "RM5_B.WAV",
+        "RM6_A.WAV",
+        "RM6_B.WAV",
+        "RM7_A.WAV",
+        "RM7_B.WAV",
+        "RM8_B.WAV",
+        "RM9_B.WAV"
+      ],
+      "sample_instruments": [
+        "Rim",
+        "Rim",
+        "Rim",
+        "Rim",
+        "Rim",
+        "Rim",
+        "Rim",
+        "Rim",
+        "Rim",
+        "Rim",
+        "Rim",
+        "Rim",
+        "Rim",
+        "Rim",
+        "Rim",
+        "Rim"
+      ]
+    },
+    {
+      "path": "22/SDS9_Snares",
+      "set": "22",
+      "url_path": "simmons-sds-9/22/SDS9_Snares",
+      "num_samples": 6,
+      "instruments": [
+        "Snare"
+      ],
+      "samples": [
+        "Sn1.wav",
+        "Sn2.wav",
+        "Sn3.wav",
+        "Sn4.wav",
+        "Sn5.wav",
+        "Sn6.wav"
+      ],
+      "sample_instruments": [
+        "Snare",
+        "Snare",
+        "Snare",
+        "Snare",
+        "Snare",
+        "Snare"
+      ]
+    },
+    {
+      "path": "3/SDS9_Factory A3",
+      "set": "3",
+      "url_path": "simmons-sds-9/3/SDS9_Factory A3",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.wav",
+        "HT.wav",
+        "LT.wav",
+        "MT.wav",
+        "RM.wav",
+        "SN.wav"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "4/SDS9_Factory A4",
+      "set": "4",
+      "url_path": "simmons-sds-9/4/SDS9_Factory A4",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.wav",
+        "HT.wav",
+        "LT.wav",
+        "MT.wav",
+        "RM.wav",
+        "SN.wav"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "5/SDS9_Factory A5",
+      "set": "5",
+      "url_path": "simmons-sds-9/5/SDS9_Factory A5",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.wav",
+        "HT.wav",
+        "LT.wav",
+        "MT.wav",
+        "RM.wav",
+        "SN.wav"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "6/SDS9_Factory B1",
+      "set": "6",
+      "url_path": "simmons-sds-9/6/SDS9_Factory B1",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.WAV",
+        "HT.WAV",
+        "LT.WAV",
+        "MT.WAV",
+        "RM.WAV",
+        "SN.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "7/SDS9_Factory B2",
+      "set": "7",
+      "url_path": "simmons-sds-9/7/SDS9_Factory B2",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.WAV",
+        "HT.WAV",
+        "LT.WAV",
+        "MT.WAV",
+        "RM.WAV",
+        "SN.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "8/SDS9_Factory B3",
+      "set": "8",
+      "url_path": "simmons-sds-9/8/SDS9_Factory B3",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.WAV",
+        "HT.WAV",
+        "LT.WAV",
+        "MT.WAV",
+        "RM.WAV",
+        "SN.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    },
+    {
+      "path": "9/SDS9_Factory B4",
+      "set": "9",
+      "url_path": "simmons-sds-9/9/SDS9_Factory B4",
+      "num_samples": 6,
+      "instruments": [
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD.WAV",
+        "HT.WAV",
+        "LT.WAV",
+        "MT.WAV",
+        "RM.WAV",
+        "SN.WAV"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Rim",
+        "Snare"
+      ]
+    }
+  ],
+  "total_bytes": 15282024
+}

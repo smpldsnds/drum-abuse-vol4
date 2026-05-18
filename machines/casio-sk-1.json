@@ -1,0 +1,336 @@
+{
+  "id": "casio-sk-1",
+  "name": "Casio SK-1",
+  "manufacturer": "Casio",
+  "collection": "Japan",
+  "country": null,
+  "images": [
+    "Casio SK-1.jpg"
+  ],
+  "release_year": 1985,
+  "release_year_approx": false,
+  "discontinued_year": 1988,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "classic",
+    "highly_collectible"
+  ],
+  "notes": "Sampling toy keyboard; vintage, highly collectible, circuit-bent classic",
+  "instruments": [
+    "Cowbell",
+    "Hi-Hat Closed",
+    "Hi-Hat Open",
+    "Kick",
+    "Snare",
+    "Tom"
+  ],
+  "num_sets": 7,
+  "num_samples": 93,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "casio-sk-1/1",
+      "num_samples": 13,
+      "instruments": [
+        "Cowbell",
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
+        "Kick",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "Chh.wav",
+        "Clhat.wav",
+        "Cowbell_Hi.wav",
+        "Cowbell_Lo.wav",
+        "Cz-Bass1.wav",
+        "Hitom.wav",
+        "Kick.wav",
+        "Lotom.wav",
+        "Ohh.wav",
+        "Ophat.wav",
+        "Snare.wav",
+        "Synth Drums.wav",
+        "Tom.wav"
+      ],
+      "sample_instruments": [
+        "Hi-Hat Closed",
+        "",
+        "Cowbell",
+        "Cowbell",
+        "",
+        "Tom",
+        "Kick",
+        "Tom",
+        "Hi-Hat Open",
+        "Hi-Hat Open",
+        "Snare",
+        "",
+        "Tom"
+      ]
+    },
+    {
+      "path": "2",
+      "set": "2",
+      "url_path": "casio-sk-1/2",
+      "num_samples": 8,
+      "instruments": [
+        "Kick",
+        "Tom"
+      ],
+      "samples": [
+        "CZ-BASS1.WAV",
+        "skclhat.wav",
+        "skhitom.wav",
+        "skkick.wav",
+        "skloop.wav",
+        "sklotom.wav",
+        "skophat.wav",
+        "sksnare.wav"
+      ],
+      "sample_instruments": [
+        "",
+        "",
+        "Tom",
+        "Kick",
+        "",
+        "Tom",
+        "",
+        ""
+      ]
+    },
+    {
+      "path": "3/8bit Degraded [Mono]",
+      "set": "3",
+      "url_path": "casio-sk-1/3/8bit Degraded [Mono]",
+      "num_samples": 30,
+      "instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
+        "Kick",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "SK1 Closed Hi Hat [Bit 1].wav",
+        "SK1 Closed Hi Hat [Bit 2].wav",
+        "SK1 Closed Hi Hat [Bit 3].wav",
+        "SK1 Closed Hi Hat [Bit 4].wav",
+        "SK1 Closed Hi Hat [Bit 5].wav",
+        "SK1 Kick [Bit 1].wav",
+        "SK1 Kick [Bit 2].wav",
+        "SK1 Kick [Bit 3].wav",
+        "SK1 Kick [Bit 4].wav",
+        "SK1 Kick [Bit 5].wav",
+        "SK1 Open Hi Hat [Bit 1].wav",
+        "SK1 Open Hi Hat [Bit 2].wav",
+        "SK1 Open Hi Hat [Bit 3].wav",
+        "SK1 Open Hi Hat [Bit 4].wav",
+        "SK1 Open Hi Hat [Bit 5].wav",
+        "SK1 Snare [Bit 1].wav",
+        "SK1 Snare [Bit 2].wav",
+        "SK1 Snare [Bit 3].wav",
+        "SK1 Snare [Bit 4].wav",
+        "SK1 Snare [Bit 5].wav",
+        "SK1 Tom Hi [Bit 1].wav",
+        "SK1 Tom Hi [Bit 2].wav",
+        "SK1 Tom Hi [Bit 3].wav",
+        "SK1 Tom Hi [Bit 4].wav",
+        "SK1 Tom Hi [Bit 5].wav",
+        "SK1 Tom Low [Bit 1].wav",
+        "SK1 Tom Low [Bit 2].wav",
+        "SK1 Tom Low [Bit 3].wav",
+        "SK1 Tom Low [Bit 4].wav",
+        "SK1 Tom Low [Bit 5].wav"
+      ],
+      "sample_instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Kick",
+        "Kick",
+        "Kick",
+        "Kick",
+        "Kick",
+        "Hi-Hat Open",
+        "Hi-Hat Open",
+        "Hi-Hat Open",
+        "Hi-Hat Open",
+        "Hi-Hat Open",
+        "Snare",
+        "Snare",
+        "Snare",
+        "Snare",
+        "Snare",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Tom"
+      ]
+    },
+    {
+      "path": "3/Dry",
+      "set": "3",
+      "url_path": "casio-sk-1/3/Dry",
+      "num_samples": 6,
+      "instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
+        "Kick",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "SK1 Closed Hi Hat.wav",
+        "SK1 Kick.wav",
+        "SK1 Open Hi Hat.wav",
+        "SK1 Snare.wav",
+        "SK1 Tom Hi.wav",
+        "SK1 Tom Low.wav"
+      ],
+      "sample_instruments": [
+        "Hi-Hat Closed",
+        "Kick",
+        "Hi-Hat Open",
+        "Snare",
+        "Tom",
+        "Tom"
+      ]
+    },
+    {
+      "path": "3/Glitch & Distort",
+      "set": "3",
+      "url_path": "casio-sk-1/3/Glitch & Distort",
+      "num_samples": 18,
+      "instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
+        "Kick",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "SK1 Closed Hi Hat [Dist 1].wav",
+        "SK1 Closed Hi Hat [Dist 2].wav",
+        "SK1 Closed Hi Hat [Dist 3].wav",
+        "SK1 Kick [Dist 1].wav",
+        "SK1 Kick [Dist 2].wav",
+        "SK1 Kick [Dist 3].wav",
+        "SK1 Open Hi Hat [Dist 1].wav",
+        "SK1 Open Hi Hat [Dist 2].wav",
+        "SK1 Open Hi Hat [Dist 3].wav",
+        "SK1 Snare [Dist 1].wav",
+        "SK1 Snare [Dist 2].wav",
+        "SK1 Snare [Dist 3].wav",
+        "SK1 Tom Hi [Dist 1].wav",
+        "SK1 Tom Hi [Dist 2].wav",
+        "SK1 Tom Hi [Dist 3].wav",
+        "SK1 Tom Low [Dist 1].wav",
+        "SK1 Tom Low [Dist 2].wav",
+        "SK1 Tom Low [Dist 3].wav"
+      ],
+      "sample_instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Kick",
+        "Kick",
+        "Kick",
+        "Hi-Hat Open",
+        "Hi-Hat Open",
+        "Hi-Hat Open",
+        "Snare",
+        "Snare",
+        "Snare",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Tom"
+      ]
+    },
+    {
+      "path": "3/Slammed",
+      "set": "3",
+      "url_path": "casio-sk-1/3/Slammed",
+      "num_samples": 6,
+      "instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
+        "Kick",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "SK1 Closed Hi Hat [Slam].wav",
+        "SK1 Kick [Slam].wav",
+        "SK1 Open Hi Hat [Slam].wav",
+        "SK1 Snare [Slam].wav",
+        "SK1 Tom Hi [Slam].wav",
+        "SK1 Tom Low [Slam].wav"
+      ],
+      "sample_instruments": [
+        "Hi-Hat Closed",
+        "Kick",
+        "Hi-Hat Open",
+        "Snare",
+        "Tom",
+        "Tom"
+      ]
+    },
+    {
+      "path": "3/Wet",
+      "set": "3",
+      "url_path": "casio-sk-1/3/Wet",
+      "num_samples": 12,
+      "instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
+        "Kick",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "SK1 Closed Hi Hat [Close].wav",
+        "SK1 Closed Hi Hat [Long].wav",
+        "SK1 Kick [Close].wav",
+        "SK1 Kick [Long].wav",
+        "SK1 Open Hi Hat [Close].wav",
+        "SK1 Open Hi Hat [Long].wav",
+        "SK1 Snare [Close].wav",
+        "SK1 Snare [Long].wav",
+        "SK1 Tom Hi [Close].wav",
+        "SK1 Tom Hi [Long].wav",
+        "SK1 Tom Low [Close].wav",
+        "SK1 Tom Low [Long].wav"
+      ],
+      "sample_instruments": [
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Kick",
+        "Kick",
+        "Hi-Hat Open",
+        "Hi-Hat Open",
+        "Snare",
+        "Snare",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Tom"
+      ]
+    }
+  ],
+  "total_bytes": 4477066
+}

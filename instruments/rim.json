@@ -1,0 +1,2424 @@
+[
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/1",
+    "file": "Rim.wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/8bit Degraded [Mono]",
+    "file": "MT500 Rim [Bit 1].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/8bit Degraded [Mono]",
+    "file": "MT500 Rim [Bit 2].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/8bit Degraded [Mono]",
+    "file": "MT500 Rim [Bit 3].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/8bit Degraded [Mono]",
+    "file": "MT500 Rim [Bit 4].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/8bit Degraded [Mono]",
+    "file": "MT500 Rim [Bit 5].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/Dry",
+    "file": "MT500 Rim.wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/Glitch & Distort",
+    "file": "MT500 Rim [Dist 1].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/Glitch & Distort",
+    "file": "MT500 Rim [Dist 2].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/Glitch & Distort",
+    "file": "MT500 Rim [Dist 3].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/Slammed",
+    "file": "MT500 Rim [Slam].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/Wet",
+    "file": "MT500 Rim [Close].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/Wet",
+    "file": "MT500 Rim [Long].wav"
+  },
+  {
+    "machine_id": "dr-b-hm-digital-drums",
+    "machine_name": "Dr. Böhm Digital Drums",
+    "release_year": 1984,
+    "url_path": "dr-b-hm-digital-drums/1",
+    "file": "Bohm_Rim_C2A.wav"
+  },
+  {
+    "machine_id": "dr-b-hm-digital-drums",
+    "machine_name": "Dr. Böhm Digital Drums",
+    "release_year": 1984,
+    "url_path": "dr-b-hm-digital-drums/1",
+    "file": "Bohm_Rim_C2S.wav"
+  },
+  {
+    "machine_id": "dr-b-hm-digital-drums",
+    "machine_name": "Dr. Böhm Digital Drums",
+    "release_year": 1984,
+    "url_path": "dr-b-hm-digital-drums/1",
+    "file": "Bohm_Rim_T1A.wav"
+  },
+  {
+    "machine_id": "dr-b-hm-digital-drums",
+    "machine_name": "Dr. Böhm Digital Drums",
+    "release_year": 1984,
+    "url_path": "dr-b-hm-digital-drums/1",
+    "file": "Bohm_Rim_T1S.wav"
+  },
+  {
+    "machine_id": "dr-b-hm-digital-drums",
+    "machine_name": "Dr. Böhm Digital Drums",
+    "release_year": 1984,
+    "url_path": "dr-b-hm-digital-drums/1",
+    "file": "Bohm_Rim_aOrig.wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/8bit Degraded [Mono]",
+    "file": "PSS50 Stick [Bit 1].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/8bit Degraded [Mono]",
+    "file": "PSS50 Stick [Bit 2].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/8bit Degraded [Mono]",
+    "file": "PSS50 Stick [Bit 3].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/8bit Degraded [Mono]",
+    "file": "PSS50 Stick [Bit 4].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/8bit Degraded [Mono]",
+    "file": "PSS50 Stick [Bit 5].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/Dry",
+    "file": "PSS50 Stick.wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/Glitch & Distort",
+    "file": "PSS50 Stick [Dist 1].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/Glitch & Distort",
+    "file": "PSS50 Stick [Dist 2].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/Glitch & Distort",
+    "file": "PSS50 Stick [Dist 3].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/Slammed",
+    "file": "PSS50 Stick [Slam].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/Wet",
+    "file": "PSS50 Stick [Close].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/Wet",
+    "file": "PSS50 Stick [Long].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/1",
+    "file": "Rim 2.wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/1",
+    "file": "Rim.wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/1",
+    "file": "Rim1.wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/1",
+    "file": "Rim2.wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/1",
+    "file": "Stick.wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Rim 1 [Bit 1].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Rim 1 [Bit 2].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Rim 1 [Bit 3].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Rim 1 [Bit 4].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Rim 1 [Bit 5].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Rim 2 [Bit 1].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Rim 2 [Bit 2].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Rim 2 [Bit 3].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Rim 2 [Bit 4].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Rim 2 [Bit 5].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Rim 3 [Bit 1].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Rim 3 [Bit 2].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Rim 3 [Bit 3].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Rim 3 [Bit 4].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Rim 3 [Bit 5].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Stick [Bit 1].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Stick [Bit 2].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Stick [Bit 3].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Stick [Bit 4].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Stick [Bit 5].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Dry",
+    "file": "9000 Rim 1.wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Dry",
+    "file": "9000 Rim 2.wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Dry",
+    "file": "9000 Rim 3.wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Dry",
+    "file": "9000 Stick.wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Rim 1 [Dist 1].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Rim 1 [Dist 2].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Rim 1 [Dist 3].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Rim 2 [Dist 1].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Rim 2 [Dist 2].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Rim 2 [Dist 3].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Rim 3 [Dist 1].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Rim 3 [Dist 2].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Rim 3 [Dist 3].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Stick [Dist 1].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Stick [Dist 2].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Stick [Dist 3].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Slammed",
+    "file": "9000 Rim 1 [Slam].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Slammed",
+    "file": "9000 Rim 2 [Slam].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Slammed",
+    "file": "9000 Rim 3 [Slam].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Slammed",
+    "file": "9000 Stick [Slam].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Wet",
+    "file": "9000 Rim 1 [Close].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Wet",
+    "file": "9000 Rim 1 [Long].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Wet",
+    "file": "9000 Rim 2 [Close].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Wet",
+    "file": "9000 Rim 2 [Long].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Wet",
+    "file": "9000 Rim 3 [Close].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Wet",
+    "file": "9000 Rim 3 [Long].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Wet",
+    "file": "9000 Stick [Close].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Wet",
+    "file": "9000 Stick [Long].wav"
+  },
+  {
+    "machine_id": "linn-linndrum-lm-2-vinyl",
+    "machine_name": "Linn LinnDrum LM-2 Vinyl",
+    "release_year": 1984,
+    "url_path": "linn-linndrum-lm-2-vinyl/1",
+    "file": "VinylLinnDrum_Rim_01_Handy.wav"
+  },
+  {
+    "machine_id": "linn-linndrum-lm-2-vinyl",
+    "machine_name": "Linn LinnDrum LM-2 Vinyl",
+    "release_year": 1984,
+    "url_path": "linn-linndrum-lm-2-vinyl/1",
+    "file": "VinylLinnDrum_Rim_01_PJPJ.wav"
+  },
+  {
+    "machine_id": "linn-linndrum-lm-2-vinyl",
+    "machine_name": "Linn LinnDrum LM-2 Vinyl",
+    "release_year": 1984,
+    "url_path": "linn-linndrum-lm-2-vinyl/1",
+    "file": "VinylLinnDrum_Rim_01_TechVari.wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/1",
+    "file": "Rimshot.wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Rim [Bit 1].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Rim [Bit 2].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Rim [Bit 3].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Rim [Bit 4].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Rim [Bit 5].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Dry",
+    "file": "JUNO Rim.wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Glitch & Distort",
+    "file": "JUNO Rim [Dist 1].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Glitch & Distort",
+    "file": "JUNO Rim [Dist 2].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Glitch & Distort",
+    "file": "JUNO Rim [Dist 3].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Slammed",
+    "file": "JUNO Rim [Slam].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Wet",
+    "file": "JUNO Rim [Close].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Wet",
+    "file": "JUNO Rim [Long].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/1",
+    "file": "TR-707RimShot.wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/2",
+    "file": "707_RIM.WAV"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/3",
+    "file": "RimShot_TR-707.wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/8bit Degraded [Mono]",
+    "file": "TR707 Rim [Bit 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/8bit Degraded [Mono]",
+    "file": "TR707 Rim [Bit 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/8bit Degraded [Mono]",
+    "file": "TR707 Rim [Bit 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/8bit Degraded [Mono]",
+    "file": "TR707 Rim [Bit 4].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/8bit Degraded [Mono]",
+    "file": "TR707 Rim [Bit 5].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/Dry",
+    "file": "TR707 Rim.wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/Glitch & Distort",
+    "file": "TR707 Rim [Dist 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/Glitch & Distort",
+    "file": "TR707 Rim [Dist 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/Glitch & Distort",
+    "file": "TR707 Rim [Dist 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/Slammed",
+    "file": "TR707 Rim [Slam].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/Wet",
+    "file": "TR707 Rim [Close].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/Wet",
+    "file": "TR707 Rim [Long].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/5",
+    "file": "Rim.wav"
+  },
+  {
+    "machine_id": "siel-mdp-40",
+    "machine_name": "Siel MDP-40",
+    "release_year": 1984,
+    "url_path": "siel-mdp-40/1",
+    "file": "Rimshot.wav"
+  },
+  {
+    "machine_id": "siel-mdp-40",
+    "machine_name": "Siel MDP-40",
+    "release_year": 1984,
+    "url_path": "siel-mdp-40/2",
+    "file": "Rimshot.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/1",
+    "file": "RIM1_YAMAHA_Rx11.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/1",
+    "file": "RIM2_YAMAHA_Rx11.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/8bit Degraded [Mono]",
+    "file": "RX11 Rim [Bit 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/8bit Degraded [Mono]",
+    "file": "RX11 Rim [Bit 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/8bit Degraded [Mono]",
+    "file": "RX11 Rim [Bit 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/8bit Degraded [Mono]",
+    "file": "RX11 Rim [Bit 4].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/8bit Degraded [Mono]",
+    "file": "RX11 Rim [Bit 5].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/Dry",
+    "file": "RX11 Rim.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/Glitch & Distort",
+    "file": "RX11 Rim [Dist 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/Glitch & Distort",
+    "file": "RX11 Rim [Dist 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/Glitch & Distort",
+    "file": "RX11 Rim [Dist 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/Slammed",
+    "file": "RX11 Rim [Slam].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/Wet",
+    "file": "RX11 Rim [Close].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/Wet",
+    "file": "RX11 Rim [Long].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/3",
+    "file": "RX11rim.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/4",
+    "file": "Rim1.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/4",
+    "file": "Rim2.wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/4",
+    "file": "VinylSP12_Rim_01_Handy.wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/4",
+    "file": "VinylSP12_Rim_01_PJPJ.wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/4",
+    "file": "VinylSP12_Rim_01_TechVari.wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP Rim [Bit 1].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP Rim [Bit 2].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP Rim [Bit 3].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP Rim [Bit 4].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP Rim [Bit 5].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Dry",
+    "file": "SP Rim.wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Glitch & Distort",
+    "file": "SP Rim [Dist 1].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Glitch & Distort",
+    "file": "SP Rim [Dist 2].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Glitch & Distort",
+    "file": "SP Rim [Dist 3].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Slammed",
+    "file": "SP Rim [Slam].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Wet",
+    "file": "SP Rim [Close].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Wet",
+    "file": "SP Rim [Long].wav"
+  },
+  {
+    "machine_id": "ensoniq-mirage",
+    "machine_name": "Ensoniq Mirage",
+    "release_year": 1985,
+    "url_path": "ensoniq-mirage/1",
+    "file": "Rim.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/1",
+    "file": "Drim.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Rim [Bit 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Rim [Bit 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Rim [Bit 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Rim [Bit 4].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Rim [Bit 5].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Rimshot [Bit 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Rimshot [Bit 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Rimshot [Bit 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Rimshot [Bit 4].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Rimshot [Bit 5].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Dry",
+    "file": "DDD1 Rim.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Dry",
+    "file": "DDD1 Rimshot.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Glitch & Distort",
+    "file": "DDD1 Rim [Dist 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Glitch & Distort",
+    "file": "DDD1 Rim [Dist 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Glitch & Distort",
+    "file": "DDD1 Rim [Dist 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Glitch & Distort",
+    "file": "DDD1 Rimshot [Dist 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Glitch & Distort",
+    "file": "DDD1 Rimshot [Dist 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Glitch & Distort",
+    "file": "DDD1 Rimshot [Dist 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Slammed",
+    "file": "DDD1 Rim [Slam].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Slammed",
+    "file": "DDD1 Rimshot [Slam].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Wet",
+    "file": "DDD1 Rim [Close].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Wet",
+    "file": "DDD1 Rim [Long].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Wet",
+    "file": "DDD1 Rimshot [Close].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Wet",
+    "file": "DDD1 Rimshot [Long].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/3",
+    "file": "Rimshot.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-1.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-10.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-11.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-12.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-13.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-14.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-15.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-16.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-17.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-18.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-19.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-2.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-20.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-21.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-22.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-23.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-24.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-25.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-26.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-27.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-28.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-29.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-3.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-30.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-31.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-32.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-33.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-34.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-35.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-36.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-37.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-38.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-39.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-4.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-40.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-41.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-42.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-43.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-44.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-45.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-46.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-47.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-48.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-49.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-5.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-50.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-51.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-52.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-53.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-54.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-55.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-56.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-57.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-58.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-59.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-6.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-60.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-61.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-62.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-63.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-64.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-7.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-8.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Rim",
+    "file": "DDD1 Rim-9.wav"
+  },
+  {
+    "machine_id": "roland-super-quartet-mks-7",
+    "machine_name": "Roland Super Quartet MKS-7",
+    "release_year": 1985,
+    "url_path": "roland-super-quartet-mks-7/1",
+    "file": "mks_rim_Roland_MKS7.wav"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/1/SDS9_Factory A1",
+    "file": "RM.wav"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/10/SDS9_Factory B5",
+    "file": "RM.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/11/SDS9_Factory C1",
+    "file": "RM.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/12/SDS9_Factory C2",
+    "file": "RM.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/13/SDS9_Factory C3",
+    "file": "RM.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/14/SDS9_Factory C4",
+    "file": "RM.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/15/SDS9_Factory C5",
+    "file": "RM.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/16/SDS9_Factory D1",
+    "file": "RM.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/17/SDS9_Factory D2",
+    "file": "RM.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/18/SDS9_Factory D3",
+    "file": "RM.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/19/SDS9_Factory D4",
+    "file": "RM.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/2/SDS9_Factory A2",
+    "file": "RM.wav"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/20/SDS9_Factory D5",
+    "file": "RM.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/21/SDS9_Rimshots",
+    "file": "RM.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/21/SDS9_Rimshots",
+    "file": "RM1_B.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/21/SDS9_Rimshots",
+    "file": "RM2_A.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/21/SDS9_Rimshots",
+    "file": "RM2_B.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/21/SDS9_Rimshots",
+    "file": "RM3_A.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/21/SDS9_Rimshots",
+    "file": "RM3_B.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/21/SDS9_Rimshots",
+    "file": "RM4_A.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/21/SDS9_Rimshots",
+    "file": "RM4_B.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/21/SDS9_Rimshots",
+    "file": "RM5_A.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/21/SDS9_Rimshots",
+    "file": "RM5_B.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/21/SDS9_Rimshots",
+    "file": "RM6_A.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/21/SDS9_Rimshots",
+    "file": "RM6_B.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/21/SDS9_Rimshots",
+    "file": "RM7_A.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/21/SDS9_Rimshots",
+    "file": "RM7_B.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/21/SDS9_Rimshots",
+    "file": "RM8_B.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/21/SDS9_Rimshots",
+    "file": "RM9_B.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/3/SDS9_Factory A3",
+    "file": "RM.wav"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/4/SDS9_Factory A4",
+    "file": "RM.wav"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/5/SDS9_Factory A5",
+    "file": "RM.wav"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/6/SDS9_Factory B1",
+    "file": "RM.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/7/SDS9_Factory B2",
+    "file": "RM.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/8/SDS9_Factory B3",
+    "file": "RM.WAV"
+  },
+  {
+    "machine_id": "simmons-sds-9",
+    "machine_name": "Simmons SDS-9",
+    "release_year": 1985,
+    "url_path": "simmons-sds-9/9/SDS9_Factory B4",
+    "file": "RM.WAV"
+  },
+  {
+    "machine_id": "suzuki-rpm-40",
+    "machine_name": "Suzuki RPM-40",
+    "release_year": 1985,
+    "url_path": "suzuki-rpm-40/2",
+    "file": "RPM40_Rim1_C2A.wav"
+  },
+  {
+    "machine_id": "suzuki-rpm-40",
+    "machine_name": "Suzuki RPM-40",
+    "release_year": 1985,
+    "url_path": "suzuki-rpm-40/2",
+    "file": "RPM40_Rim1_C2S.wav"
+  },
+  {
+    "machine_id": "suzuki-rpm-40",
+    "machine_name": "Suzuki RPM-40",
+    "release_year": 1985,
+    "url_path": "suzuki-rpm-40/2",
+    "file": "RPM40_Rim1_T1A.wav"
+  },
+  {
+    "machine_id": "suzuki-rpm-40",
+    "machine_name": "Suzuki RPM-40",
+    "release_year": 1985,
+    "url_path": "suzuki-rpm-40/2",
+    "file": "RPM40_Rim1_T1S.wav"
+  },
+  {
+    "machine_id": "suzuki-rpm-40",
+    "machine_name": "Suzuki RPM-40",
+    "release_year": 1985,
+    "url_path": "suzuki-rpm-40/2",
+    "file": "RPM40_Rim1_aOrig.wav"
+  },
+  {
+    "machine_id": "suzuki-rpm-40",
+    "machine_name": "Suzuki RPM-40",
+    "release_year": 1985,
+    "url_path": "suzuki-rpm-40/2",
+    "file": "RPM40_Rim2_aOrig.wav"
+  },
+  {
+    "machine_id": "technics-ax-5",
+    "machine_name": "Technics AX-5",
+    "release_year": 1985,
+    "url_path": "technics-ax-5/1",
+    "file": "Sidestick.wav"
+  },
+  {
+    "machine_id": "technics-pcm-dp-50",
+    "machine_name": "Technics PCM DP-50",
+    "release_year": 1985,
+    "url_path": "technics-pcm-dp-50/1",
+    "file": "Rim.wav"
+  },
+  {
+    "machine_id": "wersi-prisma-dx-5",
+    "machine_name": "Wersi Prisma DX-5",
+    "release_year": 1985,
+    "url_path": "wersi-prisma-dx-5/1",
+    "file": "Rimshot.wav"
+  },
+  {
+    "machine_id": "yamaha-dd-5",
+    "machine_name": "Yamaha DD-5",
+    "release_year": 1985,
+    "url_path": "yamaha-dd-5/1",
+    "file": "Rim.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/1",
+    "file": "Rim Sht.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/8bit Degraded [Mono]",
+    "file": "RX15 Rim Shot [Bit 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/8bit Degraded [Mono]",
+    "file": "RX15 Rim Shot [Bit 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/8bit Degraded [Mono]",
+    "file": "RX15 Rim Shot [Bit 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/8bit Degraded [Mono]",
+    "file": "RX15 Rim Shot [Bit 4].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/8bit Degraded [Mono]",
+    "file": "RX15 Rim Shot [Bit 5].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Dry",
+    "file": "RX15 Rim Shot.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Glitch & Distort",
+    "file": "RX15 Rim Shot [Dist 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Glitch & Distort",
+    "file": "RX15 Rim Shot [Dist 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Glitch & Distort",
+    "file": "RX15 Rim Shot [Dist 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Slammed",
+    "file": "RX15 Rim Shot [Slam].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Wet",
+    "file": "RX15 Rim Shot [Close].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Wet",
+    "file": "RX15 Rim Shot [Long].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/1",
+    "file": "RX5rim.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/8bit Degraded [Mono]",
+    "file": "RX5 Rim [Bit 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/8bit Degraded [Mono]",
+    "file": "RX5 Rim [Bit 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/8bit Degraded [Mono]",
+    "file": "RX5 Rim [Bit 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/8bit Degraded [Mono]",
+    "file": "RX5 Rim [Bit 4].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/8bit Degraded [Mono]",
+    "file": "RX5 Rim [Bit 5].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Dry",
+    "file": "RX5 Rim.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Glitch & Distort",
+    "file": "RX5 Rim [Dist 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Glitch & Distort",
+    "file": "RX5 Rim [Dist 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Glitch & Distort",
+    "file": "RX5 Rim [Dist 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Slammed",
+    "file": "RX5 Rim [Slam].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Slammed",
+    "file": "RX5 Rim.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Wet",
+    "file": "RX5 Rim [Close].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Wet",
+    "file": "RX5 Rim [Long].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_01_C2A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_01_C2S.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_01_T1A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_01_T1S.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_01_aOrig.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_02_C2A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_02_C2S.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_02_T1A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_02_T1S.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_02_aOrig.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_03_C2A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_03_C2S.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_03_T1A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_03_T1S.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_03_aOrig.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_04_C2A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_04_C2S.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_04_T1A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_04_T1S.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_04_aOrig.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_05_C2A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_05_C2S.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_05_T1A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_05_T1S.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Rim_05_aOrig.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/4",
+    "file": "RX5_Rim_02_T1A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/5",
+    "file": "Rim 1.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/5",
+    "file": "Rim 2.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/6",
+    "file": "RX5_09_Rim_SP.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/7/RX5_Kit_01",
+    "file": "RX5_Rim.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/7/RX5_Kit_02",
+    "file": "RX5 RIM 1.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/7/RX5_Kit_02",
+    "file": "RX5 RIM 2.wav"
+  }
+]

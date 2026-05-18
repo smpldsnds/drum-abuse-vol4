@@ -1,0 +1,56 @@
+{
+  "id": "casio-ct-310",
+  "name": "Casio CT-310",
+  "manufacturer": "Casio",
+  "collection": "Japan",
+  "country": null,
+  "images": [
+    "Casio CT-310.jpg"
+  ],
+  "release_year": 1985,
+  "release_year_approx": true,
+  "discontinued_year": 1988,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "classic"
+  ],
+  "notes": "Budget Casio keyboard with rhythms; uncommon",
+  "instruments": [],
+  "num_sets": 1,
+  "num_samples": 10,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "casio-ct-310/1",
+      "num_samples": 10,
+      "instruments": [],
+      "samples": [
+        "01.wav",
+        "02.wav",
+        "03.wav",
+        "04.wav",
+        "05.wav",
+        "06.wav",
+        "07.wav",
+        "08.wav",
+        "09.wav",
+        "10.wav"
+      ],
+      "sample_instruments": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "total_bytes": 360292
+}

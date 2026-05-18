@@ -1,0 +1,737 @@
+[
+  {
+    "machine_id": "dr-b-hm-digital-drums",
+    "machine_name": "Dr. Böhm Digital Drums",
+    "release_year": 1984,
+    "url_path": "dr-b-hm-digital-drums/1",
+    "file": "Bohm_Shaker_C2A.wav"
+  },
+  {
+    "machine_id": "dr-b-hm-digital-drums",
+    "machine_name": "Dr. Böhm Digital Drums",
+    "release_year": 1984,
+    "url_path": "dr-b-hm-digital-drums/1",
+    "file": "Bohm_Shaker_T1A.wav"
+  },
+  {
+    "machine_id": "dr-b-hm-digital-drums",
+    "machine_name": "Dr. Böhm Digital Drums",
+    "release_year": 1984,
+    "url_path": "dr-b-hm-digital-drums/1",
+    "file": "Bohm_Shaker_X.wav"
+  },
+  {
+    "machine_id": "dr-b-hm-digital-drums",
+    "machine_name": "Dr. Böhm Digital Drums",
+    "release_year": 1984,
+    "url_path": "dr-b-hm-digital-drums/1",
+    "file": "Bohm_Shaker_aOrig.wav"
+  },
+  {
+    "machine_id": "linn-linndrum-lm-2-vinyl",
+    "machine_name": "Linn LinnDrum LM-2 Vinyl",
+    "release_year": 1984,
+    "url_path": "linn-linndrum-lm-2-vinyl/1",
+    "file": "VinylLinnDrum_Shaker_01_Handy.wav"
+  },
+  {
+    "machine_id": "linn-linndrum-lm-2-vinyl",
+    "machine_name": "Linn LinnDrum LM-2 Vinyl",
+    "release_year": 1984,
+    "url_path": "linn-linndrum-lm-2-vinyl/1",
+    "file": "VinylLinnDrum_Shaker_01_PJPJ.wav"
+  },
+  {
+    "machine_id": "linn-linndrum-lm-2-vinyl",
+    "machine_name": "Linn LinnDrum LM-2 Vinyl",
+    "release_year": 1984,
+    "url_path": "linn-linndrum-lm-2-vinyl/1",
+    "file": "VinylLinnDrum_Shaker_01_TechVari.wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/1",
+    "file": "Shaker.wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/8bit Degraded [Mono]",
+    "file": "DX Shaker [Bit 1].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/8bit Degraded [Mono]",
+    "file": "DX Shaker [Bit 2].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/8bit Degraded [Mono]",
+    "file": "DX Shaker [Bit 3].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/8bit Degraded [Mono]",
+    "file": "DX Shaker [Bit 4].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/8bit Degraded [Mono]",
+    "file": "DX Shaker [Bit 5].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/Dry",
+    "file": "DX Shaker.wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/Glitch & Distort",
+    "file": "DX Shaker [Dist 1].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/Glitch & Distort",
+    "file": "DX Shaker [Dist 2].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/Glitch & Distort",
+    "file": "DX Shaker [Dist 3].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/Slammed",
+    "file": "DX Shaker [Slam].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/Wet",
+    "file": "DX Shaker [Close].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/Wet",
+    "file": "DX Shaker [Long].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/3",
+    "file": "DX_09_Shaker_01_SP.wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/3",
+    "file": "DX_10_Shaker_02_SP.wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Shaker [Bit 1].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Shaker [Bit 2].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Shaker [Bit 3].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Shaker [Bit 4].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Shaker [Bit 5].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Dry",
+    "file": "JUNO Shaker.wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Glitch & Distort",
+    "file": "JUNO Shaker [Dist 1].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Glitch & Distort",
+    "file": "JUNO Shaker [Dist 2].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Glitch & Distort",
+    "file": "JUNO Shaker [Dist 3].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Slammed",
+    "file": "JUNO Shaker [Slam].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Wet",
+    "file": "JUNO Shaker [Close].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Wet",
+    "file": "JUNO Shaker [Long].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/1",
+    "file": "SHAKER_YAMAHA_Rx11.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/4",
+    "file": "Shaker.wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/8bit Degraded [Mono]",
+    "file": "SP12 Shaker [Bit 1].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/8bit Degraded [Mono]",
+    "file": "SP12 Shaker [Bit 2].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/8bit Degraded [Mono]",
+    "file": "SP12 Shaker [Bit 3].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/8bit Degraded [Mono]",
+    "file": "SP12 Shaker [Bit 4].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/8bit Degraded [Mono]",
+    "file": "SP12 Shaker [Bit 5].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Dry",
+    "file": "SP12 Shaker.wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Glitch & Distort",
+    "file": "SP12 Shaker [Dist 1].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Glitch & Distort",
+    "file": "SP12 Shaker [Dist 2].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Glitch & Distort",
+    "file": "SP12 Shaker [Dist 3].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Slammed",
+    "file": "SP12 Shaker [Slam].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Wet",
+    "file": "SP12 Shaker [Close].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Wet",
+    "file": "SP12 Shaker [Long].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/8bit Degraded [Mono]",
+    "file": "TR727 Maraca [Bit 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/8bit Degraded [Mono]",
+    "file": "TR727 Maraca [Bit 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/8bit Degraded [Mono]",
+    "file": "TR727 Maraca [Bit 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/8bit Degraded [Mono]",
+    "file": "TR727 Maraca [Bit 4].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/8bit Degraded [Mono]",
+    "file": "TR727 Maraca [Bit 5].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/8bit Degraded [Mono]",
+    "file": "TR727 Shaker [Bit 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/8bit Degraded [Mono]",
+    "file": "TR727 Shaker [Bit 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/8bit Degraded [Mono]",
+    "file": "TR727 Shaker [Bit 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/8bit Degraded [Mono]",
+    "file": "TR727 Shaker [Bit 4].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/8bit Degraded [Mono]",
+    "file": "TR727 Shaker [Bit 5].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/Dry",
+    "file": "TR727 Maraca.wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/Dry",
+    "file": "TR727 Shaker.wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/Glitch & Distort",
+    "file": "TR727 Maraca [Dist 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/Glitch & Distort",
+    "file": "TR727 Maraca [Dist 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/Glitch & Distort",
+    "file": "TR727 Maraca [Dist 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/Glitch & Distort",
+    "file": "TR727 Shaker [Dist 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/Glitch & Distort",
+    "file": "TR727 Shaker [Dist 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/Glitch & Distort",
+    "file": "TR727 Shaker [Dist 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/Slammed",
+    "file": "TR727 Maraca [Slam].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/Slammed",
+    "file": "TR727 Shaker [Slam].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/Wet",
+    "file": "TR727 Maraca [Close].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/Wet",
+    "file": "TR727 Maraca [Long].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/Wet",
+    "file": "TR727 Shaker [Close].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/4/Wet",
+    "file": "TR727 Shaker [Long].wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/5/Orig",
+    "file": "Maracas-Orig.wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/5/TubeAmp-Clean",
+    "file": "Maracas-TubeAmp-Clean.wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/5/TubeAmp-Dirty",
+    "file": "Maracas-TubeAmp-Dirty.wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/5/TubeEQ",
+    "file": "Maracas-TubeEQ.wav"
+  },
+  {
+    "machine_id": "technics-ax-5",
+    "machine_name": "Technics AX-5",
+    "release_year": 1985,
+    "url_path": "technics-ax-5/1",
+    "file": "Shaker.wav"
+  },
+  {
+    "machine_id": "wersi-prisma-dx-5",
+    "machine_name": "Wersi Prisma DX-5",
+    "release_year": 1985,
+    "url_path": "wersi-prisma-dx-5/1",
+    "file": "Shaker.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/1",
+    "file": "Shaker.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/8bit Degraded [Mono]",
+    "file": "RX15 Shaker [Bit 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/8bit Degraded [Mono]",
+    "file": "RX15 Shaker [Bit 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/8bit Degraded [Mono]",
+    "file": "RX15 Shaker [Bit 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/8bit Degraded [Mono]",
+    "file": "RX15 Shaker [Bit 4].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/8bit Degraded [Mono]",
+    "file": "RX15 Shaker [Bit 5].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Dry",
+    "file": "RX15 Shaker.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Glitch & Distort",
+    "file": "RX15 Shaker [Dist 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Glitch & Distort",
+    "file": "RX15 Shaker [Dist 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Glitch & Distort",
+    "file": "RX15 Shaker [Dist 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Slammed",
+    "file": "RX15 Shaker [Slam].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Wet",
+    "file": "RX15 Shaker [Close].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Wet",
+    "file": "RX15 Shaker [Long].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Shaker_01_C2A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Shaker_01_T1A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Shaker_01_aOrig.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Shaker_02_C2A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Shaker_02_T1A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Shaker_02_aOrig.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Shaker_03_C2A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Shaker_03_T1A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Shaker_03_aOrig.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/4",
+    "file": "RX5_Shaker_01_T1A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/4",
+    "file": "RX5_Shaker_03_T1A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/5",
+    "file": "Shaker.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/6",
+    "file": "RX5_12_Shaker_02_SP.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/7/RX5_Kit_02",
+    "file": "RX5 SHAKER.wav"
+  }
+]

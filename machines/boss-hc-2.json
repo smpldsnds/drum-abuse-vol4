@@ -1,0 +1,68 @@
+{
+  "id": "boss-hc-2",
+  "name": "Boss HC-2",
+  "manufacturer": "Roland",
+  "collection": "Roland",
+  "country": null,
+  "images": [
+    "Boss HC-2.jpg"
+  ],
+  "release_year": 1984,
+  "release_year_approx": true,
+  "discontinued_year": 1988,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "vintage"
+  ],
+  "notes": "Vintage holds/clap unit; uncommon",
+  "instruments": [
+    "Clap"
+  ],
+  "num_sets": 1,
+  "num_samples": 14,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "boss-hc-2/1",
+      "num_samples": 14,
+      "instruments": [
+        "Clap"
+      ],
+      "samples": [
+        "Clap1.wav",
+        "Clap10.wav",
+        "Clap11.wav",
+        "Clap12.wav",
+        "Clap13.wav",
+        "Clap14.wav",
+        "Clap2.wav",
+        "Clap3.wav",
+        "Clap4.wav",
+        "Clap5.wav",
+        "Clap6.wav",
+        "Clap7.wav",
+        "Clap8.wav",
+        "Clap9.wav"
+      ],
+      "sample_instruments": [
+        "Clap",
+        "Clap",
+        "Clap",
+        "Clap",
+        "Clap",
+        "Clap",
+        "Clap",
+        "Clap",
+        "Clap",
+        "Clap",
+        "Clap",
+        "Clap",
+        "Clap",
+        "Clap"
+      ]
+    }
+  ],
+  "total_bytes": 407620
+}

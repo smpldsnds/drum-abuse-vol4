@@ -1,0 +1,83 @@
+{
+  "id": "nasta-hitstix-2",
+  "name": "Nasta HitStix-2",
+  "manufacturer": "Nasta",
+  "collection": "Usa_Uk",
+  "country": null,
+  "images": [
+    "Nasta HitStix-2.jpg"
+  ],
+  "release_year": 1984,
+  "release_year_approx": true,
+  "discontinued_year": 1987,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "vintage",
+    "rare"
+  ],
+  "notes": "Vintage toy drum sticks; rare, novelty",
+  "instruments": [
+    "Cymbal",
+    "FX",
+    "Hi-Hat Closed",
+    "Perc",
+    "Snare",
+    "Tom"
+  ],
+  "num_sets": 1,
+  "num_samples": 16,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "nasta-hitstix-2/1",
+      "num_samples": 16,
+      "instruments": [
+        "Cymbal",
+        "FX",
+        "Hi-Hat Closed",
+        "Perc",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "Bass.wav",
+        "Cymbol.wav",
+        "Foot Drum.wav",
+        "Fuzz Tom.wav",
+        "Hi Hat.wav",
+        "Lazer Drum.wav",
+        "Lectra.wav",
+        "Phaser.wav",
+        "Rock-It.wav",
+        "Short S.wav",
+        "Snare.wav",
+        "Syndrum.wav",
+        "Thunder K.wav",
+        "Tom Tom.wav",
+        "Vibro.wav",
+        "Zip S.wav"
+      ],
+      "sample_instruments": [
+        "",
+        "Cymbal",
+        "Perc",
+        "Tom",
+        "Hi-Hat Closed",
+        "Perc",
+        "",
+        "",
+        "",
+        "",
+        "Snare",
+        "",
+        "",
+        "Tom",
+        "",
+        "FX"
+      ]
+    }
+  ],
+  "total_bytes": 341376
+}

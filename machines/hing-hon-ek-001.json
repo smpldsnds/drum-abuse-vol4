@@ -1,0 +1,71 @@
+{
+  "id": "hing-hon-ek-001",
+  "name": "Hing-Hon EK-001",
+  "manufacturer": "Hing-Hon",
+  "collection": "Japan",
+  "country": null,
+  "images": [
+    "Hing-Hon EK-001.jpg"
+  ],
+  "release_year": 1985,
+  "release_year_approx": true,
+  "discontinued_year": 1989,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "classic",
+    "very_rare"
+  ],
+  "notes": "Obscure Asian market drum machine; very rare",
+  "instruments": [
+    "Cowbell",
+    "Hi-Hat Closed",
+    "Kick",
+    "Snare"
+  ],
+  "num_sets": 1,
+  "num_samples": 12,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "hing-hon-ek-001/1",
+      "num_samples": 12,
+      "instruments": [
+        "Cowbell",
+        "Hi-Hat Closed",
+        "Kick",
+        "Snare"
+      ],
+      "samples": [
+        "01March_HinHongEK001.wav",
+        "02Rhumba_HinHongEK001.wav",
+        "03Disco_HinHongEK001.wav",
+        "04Pop_HinHongEK001.wav",
+        "05Ballad_HinHongEK001.wav",
+        "06Waltz_HinHongEK001.wav",
+        "07Tango_HinHongEK001.wav",
+        "08Swing_HinHongEK001.wav",
+        "Cowbell-Hin Hong.wav",
+        "Hat-Hin Hong.wav",
+        "Kick-Hin Hong.wav",
+        "Snare-Hin Hong.wav"
+      ],
+      "sample_instruments": [
+        "Hi-Hat Closed",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Cowbell",
+        "Hi-Hat Closed",
+        "Kick",
+        "Snare"
+      ]
+    }
+  ],
+  "total_bytes": 1511986
+}

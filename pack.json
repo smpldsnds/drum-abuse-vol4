@@ -1,0 +1,216 @@
+{
+  "id": "vol4",
+  "name": "Drum Abuse Vol.4: Digital Drums Boom",
+  "subtitle": "Sampling goes mainstream: SP-12, RX-11, DDD-1, LinnDrum tail",
+  "year_start": 1984,
+  "year_end": 1985,
+  "num_machines": 46,
+  "num_samples": 9050,
+  "total_bytes": 966230362,
+  "instruments": [
+    "Agogo",
+    "Bell",
+    "Bongo",
+    "Cabasa",
+    "Clap",
+    "Clave",
+    "Click",
+    "Conga",
+    "Cowbell",
+    "Crash",
+    "Cuica",
+    "Cymbal",
+    "FX",
+    "Gong",
+    "Guiro",
+    "Hi-Hat Closed",
+    "Hi-Hat Open",
+    "Kick",
+    "Perc",
+    "Ride",
+    "Rim",
+    "Shaker",
+    "Snare",
+    "Tambourine",
+    "Timbale",
+    "Tom",
+    "Triangle",
+    "Vibraslap",
+    "Whistle",
+    "Wood Block"
+  ],
+  "instrument_slugs": [
+    {
+      "slug": "agogo",
+      "num_samples": 46
+    },
+    {
+      "slug": "bell",
+      "num_samples": 32
+    },
+    {
+      "slug": "bongo",
+      "num_samples": 74
+    },
+    {
+      "slug": "cabasa",
+      "num_samples": 143
+    },
+    {
+      "slug": "clap",
+      "num_samples": 315
+    },
+    {
+      "slug": "clave",
+      "num_samples": 48
+    },
+    {
+      "slug": "click",
+      "num_samples": 21
+    },
+    {
+      "slug": "conga",
+      "num_samples": 225
+    },
+    {
+      "slug": "cowbell",
+      "num_samples": 256
+    },
+    {
+      "slug": "crash",
+      "num_samples": 273
+    },
+    {
+      "slug": "cuica",
+      "num_samples": 1
+    },
+    {
+      "slug": "cymbal",
+      "num_samples": 109
+    },
+    {
+      "slug": "fx",
+      "num_samples": 302
+    },
+    {
+      "slug": "gong",
+      "num_samples": 2
+    },
+    {
+      "slug": "guiro",
+      "num_samples": 24
+    },
+    {
+      "slug": "hihat-closed",
+      "num_samples": 662
+    },
+    {
+      "slug": "hihat-open",
+      "num_samples": 448
+    },
+    {
+      "slug": "kick",
+      "num_samples": 1052
+    },
+    {
+      "slug": "perc",
+      "num_samples": 259
+    },
+    {
+      "slug": "ride",
+      "num_samples": 235
+    },
+    {
+      "slug": "rim",
+      "num_samples": 346
+    },
+    {
+      "slug": "shaker",
+      "num_samples": 105
+    },
+    {
+      "slug": "snare",
+      "num_samples": 1371
+    },
+    {
+      "slug": "tambourine",
+      "num_samples": 205
+    },
+    {
+      "slug": "timbale",
+      "num_samples": 73
+    },
+    {
+      "slug": "tom",
+      "num_samples": 1348
+    },
+    {
+      "slug": "triangle",
+      "num_samples": 12
+    },
+    {
+      "slug": "unknown",
+      "num_samples": 1034
+    },
+    {
+      "slug": "vibraslap",
+      "num_samples": 12
+    },
+    {
+      "slug": "whistle",
+      "num_samples": 15
+    },
+    {
+      "slug": "wood-block",
+      "num_samples": 2
+    }
+  ],
+  "machines": [
+    "dr-b-hm-digital-drums",
+    "wersi-prisma-dx-5",
+    "siel-mdp-40",
+    "casio-ct-310",
+    "casio-mt-500",
+    "casio-mt-800",
+    "casio-pt-68",
+    "casio-pt-82",
+    "casio-sk-1",
+    "hing-hon-ek-001",
+    "kawai-acr-20",
+    "kawai-sx-240",
+    "atlantex-mpc-1",
+    "pearl-sc-40",
+    "sony-drp-1",
+    "soundmaster-stix-st-305",
+    "suzuki-rpm-40",
+    "tama-ts-500",
+    "technics-ax-5",
+    "technics-pcm-dp-50",
+    "korg-ddd-1",
+    "korg-pss-50",
+    "boss-hc-2",
+    "boss-pc-2",
+    "roland-juno-106",
+    "roland-super-quartet-mks-7",
+    "roland-tr-707",
+    "roland-tr-727",
+    "emu-sp-12",
+    "ensoniq-mirage",
+    "klone-dual-percussion-synthesiser",
+    "kurzweil-electrodrum-prototype",
+    "linn-9000",
+    "linn-linndrum-lm-2-vinyl",
+    "nasta-hitstix-2",
+    "oberheim-dx",
+    "rhodes-polaris",
+    "simmons-sds-1000",
+    "simmons-sds-7",
+    "simmons-sds-8",
+    "simmons-sds-9",
+    "yamaha-dd-5",
+    "yamaha-rx-11",
+    "yamaha-rx-15",
+    "yamaha-rx-21",
+    "yamaha-rx-5"
+  ]
+}

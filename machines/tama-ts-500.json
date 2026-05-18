@@ -1,0 +1,75 @@
+{
+  "id": "tama-ts-500",
+  "name": "Tama TS-500",
+  "manufacturer": "Tama",
+  "collection": "Japan",
+  "country": null,
+  "images": [
+    "Tama TS-500.jpg"
+  ],
+  "release_year": 1984,
+  "release_year_approx": true,
+  "discontinued_year": 1988,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "vintage",
+    "rare"
+  ],
+  "notes": "Vintage Tama drum machine; rare",
+  "instruments": [
+    "Kick",
+    "Snare",
+    "Tom"
+  ],
+  "num_sets": 1,
+  "num_samples": 15,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "tama-ts-500/1",
+      "num_samples": 15,
+      "instruments": [
+        "Kick",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BassDrum1.wav",
+        "BassDrum2.wav",
+        "BassDrum4.wav",
+        "HT1.wav",
+        "HT2.wav",
+        "HT3.wav",
+        "LT1.wav",
+        "LT2.wav",
+        "LT3.wav",
+        "MT1.wav",
+        "MT2.wav",
+        "MT3.wav",
+        "SnareDrum1.wav",
+        "SnareDrum2.wav",
+        "SnareDrum3.wav"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Kick",
+        "Kick",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Snare",
+        "Snare",
+        "Snare"
+      ]
+    }
+  ],
+  "total_bytes": 1059094
+}

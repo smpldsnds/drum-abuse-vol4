@@ -1,0 +1,77 @@
+{
+  "id": "simmons-sds-7",
+  "name": "Simmons SDS-7",
+  "manufacturer": "Simmons",
+  "collection": "Usa_Uk",
+  "country": null,
+  "images": [
+    "Simmons SDS-7.jpg"
+  ],
+  "release_year": 1984,
+  "release_year_approx": false,
+  "discontinued_year": 1989,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "vintage",
+    "collectible"
+  ],
+  "notes": "Updated flagship Simmons; collectible",
+  "instruments": [],
+  "num_sets": 1,
+  "num_samples": 20,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "simmons-sds-7/1",
+      "num_samples": 20,
+      "instruments": [],
+      "samples": [
+        "01.wav",
+        "02.wav",
+        "03.wav",
+        "04.wav",
+        "05.wav",
+        "06.wav",
+        "07.wav",
+        "08.wav",
+        "09.wav",
+        "10.wav",
+        "11.wav",
+        "12.wav",
+        "13.wav",
+        "14.wav",
+        "15.wav",
+        "16.wav",
+        "17.wav",
+        "18.wav",
+        "19.wav",
+        "20.wav"
+      ],
+      "sample_instruments": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "total_bytes": 1386050
+}

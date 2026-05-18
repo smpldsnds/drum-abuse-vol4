@@ -1,0 +1,765 @@
+[
+  {
+    "machine_id": "linn-linndrum-lm-2-vinyl",
+    "machine_name": "Linn LinnDrum LM-2 Vinyl",
+    "release_year": 1984,
+    "url_path": "linn-linndrum-lm-2-vinyl/1",
+    "file": "VinylLinnDrum_Cym_01_Handy.wav"
+  },
+  {
+    "machine_id": "linn-linndrum-lm-2-vinyl",
+    "machine_name": "Linn LinnDrum LM-2 Vinyl",
+    "release_year": 1984,
+    "url_path": "linn-linndrum-lm-2-vinyl/1",
+    "file": "VinylLinnDrum_Cym_01_PJPJ.wav"
+  },
+  {
+    "machine_id": "linn-linndrum-lm-2-vinyl",
+    "machine_name": "Linn LinnDrum LM-2 Vinyl",
+    "release_year": 1984,
+    "url_path": "linn-linndrum-lm-2-vinyl/1",
+    "file": "VinylLinnDrum_Cym_01_TechVari.wav"
+  },
+  {
+    "machine_id": "linn-linndrum-lm-2-vinyl",
+    "machine_name": "Linn LinnDrum LM-2 Vinyl",
+    "release_year": 1984,
+    "url_path": "linn-linndrum-lm-2-vinyl/1",
+    "file": "VinylLinnDrum_Cym_02_Handy_st.wav"
+  },
+  {
+    "machine_id": "linn-linndrum-lm-2-vinyl",
+    "machine_name": "Linn LinnDrum LM-2 Vinyl",
+    "release_year": 1984,
+    "url_path": "linn-linndrum-lm-2-vinyl/1",
+    "file": "VinylLinnDrum_Cym_02_PJPJ_st.wav"
+  },
+  {
+    "machine_id": "linn-linndrum-lm-2-vinyl",
+    "machine_name": "Linn LinnDrum LM-2 Vinyl",
+    "release_year": 1984,
+    "url_path": "linn-linndrum-lm-2-vinyl/1",
+    "file": "VinylLinnDrum_Cym_02_TechVari_st.wav"
+  },
+  {
+    "machine_id": "nasta-hitstix-2",
+    "machine_name": "Nasta HitStix-2",
+    "release_year": 1984,
+    "url_path": "nasta-hitstix-2/1",
+    "file": "Cymbol.wav"
+  },
+  {
+    "machine_id": "siel-mdp-40",
+    "machine_name": "Siel MDP-40",
+    "release_year": 1984,
+    "url_path": "siel-mdp-40/1",
+    "file": "Cymbal.wav"
+  },
+  {
+    "machine_id": "soundmaster-stix-st-305",
+    "machine_name": "SoundMaster Stix ST-305",
+    "release_year": 1984,
+    "url_path": "soundmaster-stix-st-305/1",
+    "file": "Cymbal1.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Choke1.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Choke2.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Choke3.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Choke4.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Choke5.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Choke6.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Choke7.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Choke8.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Long1.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Long2.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Long3.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Long4.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Long5.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Long6.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Long7.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Long8.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Short1.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Short10.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Short11.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Short2.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Short3.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Short4.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Short5.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Short6.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Short7.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Short8.wav"
+  },
+  {
+    "machine_id": "atlantex-mpc-1",
+    "machine_name": "Atlantex MPC-1",
+    "release_year": 1985,
+    "url_path": "atlantex-mpc-1/1",
+    "file": "Cymbal Short9.wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/1",
+    "file": "Cym.wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/8bit Degraded [Mono]",
+    "file": "MT800 Cymbal [Bit 1].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/8bit Degraded [Mono]",
+    "file": "MT800 Cymbal [Bit 2].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/8bit Degraded [Mono]",
+    "file": "MT800 Cymbal [Bit 3].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/8bit Degraded [Mono]",
+    "file": "MT800 Cymbal [Bit 4].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/8bit Degraded [Mono]",
+    "file": "MT800 Cymbal [Bit 5].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/Dry",
+    "file": "MT800 Cymbal.wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/Glitch & Distort",
+    "file": "MT800 Cymbal [Dist 1].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/Glitch & Distort",
+    "file": "MT800 Cymbal [Dist 2].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/Glitch & Distort",
+    "file": "MT800 Cymbal [Dist 3].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/Slammed",
+    "file": "MT800 Cymbal [Slam].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/Wet",
+    "file": "MT800 Cymbal [Close].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/Wet",
+    "file": "MT800 Cymbal [Long].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/4",
+    "file": "VinylSP12_Cym_01_Handy.wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/4",
+    "file": "VinylSP12_Cym_01_PJPJ.wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/4",
+    "file": "VinylSP12_Cym_01_TechVari.wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP China [Bit 1].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP China [Bit 2].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP China [Bit 3].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP China [Bit 4].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP China [Bit 5].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP Cymbal [Bit 1].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP Cymbal [Bit 2].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP Cymbal [Bit 3].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP Cymbal [Bit 4].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP Cymbal [Bit 5].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Dry",
+    "file": "SP China.wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Dry",
+    "file": "SP Cymbal.wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Glitch & Distort",
+    "file": "SP China [Dist 1].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Glitch & Distort",
+    "file": "SP China [Dist 2].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Glitch & Distort",
+    "file": "SP China [Dist 3].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Glitch & Distort",
+    "file": "SP Cymbal [Dist 1].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Glitch & Distort",
+    "file": "SP Cymbal [Dist 2].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Glitch & Distort",
+    "file": "SP Cymbal [Dist 3].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Slammed",
+    "file": "SP China [Slam].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Slammed",
+    "file": "SP Cymbal [Slam].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Wet",
+    "file": "SP China [Close].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Wet",
+    "file": "SP China [Long].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Wet",
+    "file": "SP Cymbal [Close].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Wet",
+    "file": "SP Cymbal [Long].wav"
+  },
+  {
+    "machine_id": "suzuki-rpm-40",
+    "machine_name": "Suzuki RPM-40",
+    "release_year": 1985,
+    "url_path": "suzuki-rpm-40/2",
+    "file": "RPM40_Cym1_C2A.wav"
+  },
+  {
+    "machine_id": "suzuki-rpm-40",
+    "machine_name": "Suzuki RPM-40",
+    "release_year": 1985,
+    "url_path": "suzuki-rpm-40/2",
+    "file": "RPM40_Cym1_T1A.wav"
+  },
+  {
+    "machine_id": "suzuki-rpm-40",
+    "machine_name": "Suzuki RPM-40",
+    "release_year": 1985,
+    "url_path": "suzuki-rpm-40/2",
+    "file": "RPM40_Cym1_X_st.wav"
+  },
+  {
+    "machine_id": "suzuki-rpm-40",
+    "machine_name": "Suzuki RPM-40",
+    "release_year": 1985,
+    "url_path": "suzuki-rpm-40/2",
+    "file": "RPM40_Cym1_aOrig.wav"
+  },
+  {
+    "machine_id": "suzuki-rpm-40",
+    "machine_name": "Suzuki RPM-40",
+    "release_year": 1985,
+    "url_path": "suzuki-rpm-40/2",
+    "file": "RPM40_Cym2_C2A.wav"
+  },
+  {
+    "machine_id": "suzuki-rpm-40",
+    "machine_name": "Suzuki RPM-40",
+    "release_year": 1985,
+    "url_path": "suzuki-rpm-40/2",
+    "file": "RPM40_Cym2_T1A.wav"
+  },
+  {
+    "machine_id": "suzuki-rpm-40",
+    "machine_name": "Suzuki RPM-40",
+    "release_year": 1985,
+    "url_path": "suzuki-rpm-40/2",
+    "file": "RPM40_Cym2_aOrig.wav"
+  },
+  {
+    "machine_id": "technics-ax-5",
+    "machine_name": "Technics AX-5",
+    "release_year": 1985,
+    "url_path": "technics-ax-5/1",
+    "file": "Cymbal.wav"
+  },
+  {
+    "machine_id": "yamaha-dd-5",
+    "machine_name": "Yamaha DD-5",
+    "release_year": 1985,
+    "url_path": "yamaha-dd-5/1",
+    "file": "Cym.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/8bit Degraded [Mono]",
+    "file": "RX5 China [Bit 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/8bit Degraded [Mono]",
+    "file": "RX5 China [Bit 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/8bit Degraded [Mono]",
+    "file": "RX5 China [Bit 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/8bit Degraded [Mono]",
+    "file": "RX5 China [Bit 4].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/8bit Degraded [Mono]",
+    "file": "RX5 China [Bit 5].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Dry",
+    "file": "RX5 China.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Glitch & Distort",
+    "file": "RX5 China [Dist 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Glitch & Distort",
+    "file": "RX5 China [Dist 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Glitch & Distort",
+    "file": "RX5 China [Dist 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Slammed",
+    "file": "RX5 China [Slam].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Slammed",
+    "file": "RX5 China.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Wet",
+    "file": "RX5 China [Close].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Wet",
+    "file": "RX5 China [Long].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_China_01_C2A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_China_01_T1A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_China_01_aOrig.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_China_02_C2A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_China_02_T1A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_China_02_aOrig.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_China_03_C2A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_China_03_T1A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_China_03_aOrig.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/5",
+    "file": "China.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/7/RX5_Kit_01",
+    "file": "RX5_China.wav"
+  }
+]

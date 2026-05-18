@@ -1,0 +1,80 @@
+{
+  "id": "roland-super-quartet-mks-7",
+  "name": "Roland Super Quartet MKS-7",
+  "manufacturer": "Roland",
+  "collection": "Roland",
+  "country": null,
+  "images": [
+    "Roland Super Quartet MKS-7.jpg"
+  ],
+  "release_year": 1985,
+  "release_year_approx": false,
+  "discontinued_year": 1989,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "classic"
+  ],
+  "notes": "Vintage rack synth/rhythm; uncommon, vintage",
+  "instruments": [
+    "Clap",
+    "Crash",
+    "Hi-Hat Closed",
+    "Hi-Hat Open",
+    "Kick",
+    "Ride",
+    "Rim",
+    "Snare",
+    "Tom"
+  ],
+  "num_sets": 1,
+  "num_samples": 12,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "roland-super-quartet-mks-7/1",
+      "num_samples": 12,
+      "instruments": [
+        "Clap",
+        "Crash",
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
+        "Kick",
+        "Ride",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "mks7_clap_Roland_MKS7.wav",
+        "mks7_crash_Roland_MKS7.wav",
+        "mks7_hat2_Roland_MKS7.wav",
+        "mks7_hat_2_Roland_MKS7.wav",
+        "mks7_hitom_Roland_MKS7.wav",
+        "mks7_kick_Roland_MKS7.wav",
+        "mks_lotom_Roland_MKS7.wav",
+        "mks_open_hat_Roland_MKS7.wav",
+        "mks_ride_Roland_MKS7.wav",
+        "mks_rim_Roland_MKS7.wav",
+        "mks_snare_Roland_MKS7.wav",
+        "mks_tom_Roland_MKS7.wav"
+      ],
+      "sample_instruments": [
+        "Clap",
+        "Crash",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Tom",
+        "Kick",
+        "Tom",
+        "Hi-Hat Open",
+        "Ride",
+        "Rim",
+        "Snare",
+        "Tom"
+      ]
+    }
+  ],
+  "total_bytes": 357388
+}

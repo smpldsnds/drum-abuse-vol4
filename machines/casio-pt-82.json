@@ -1,0 +1,50 @@
+{
+  "id": "casio-pt-82",
+  "name": "Casio PT-82",
+  "manufacturer": "Casio",
+  "collection": "Japan",
+  "country": null,
+  "images": [
+    "Casio PT-82.jpg"
+  ],
+  "release_year": 1985,
+  "release_year_approx": true,
+  "discontinued_year": 1988,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "classic"
+  ],
+  "notes": "Mini Casio keyboard; uncommon",
+  "instruments": [],
+  "num_sets": 1,
+  "num_samples": 7,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "casio-pt-82/1",
+      "num_samples": 7,
+      "instruments": [],
+      "samples": [
+        "00.wav",
+        "01.wav",
+        "02.wav",
+        "03.wav",
+        "04.wav",
+        "05.wav",
+        "06.wav"
+      ],
+      "sample_instruments": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "total_bytes": 35906
+}

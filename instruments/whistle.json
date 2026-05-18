@@ -1,0 +1,107 @@
+[
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/5/Orig",
+    "file": "Long-Whistle-Orig.wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/5/Orig",
+    "file": "Short-Whistle-Orig.wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/5/TubeAmp-Clean",
+    "file": "Long-Whistle-TubeAmp-Clean.wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/5/TubeAmp-Clean",
+    "file": "Short-Whistle-TubeAmp-Clean.wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/5/TubeAmp-Dirty",
+    "file": "Long-Whistle-TubeAmp-Dirty.wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/5/TubeAmp-Dirty",
+    "file": "Short-Whistle-TubeAmp-Dirty.wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/5/TubeEQ",
+    "file": "Long-Whistle-TubeEQ.wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/5/TubeEQ",
+    "file": "Short-Whistle-TubeEQ.wav"
+  },
+  {
+    "machine_id": "wersi-prisma-dx-5",
+    "machine_name": "Wersi Prisma DX-5",
+    "release_year": 1985,
+    "url_path": "wersi-prisma-dx-5/1",
+    "file": "Whistle.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Whistle_C2A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Whistle_C2S.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Whistle_T1A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Whistle_T1S.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_Whistle_aOrig.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/5",
+    "file": "Whistle.wav"
+  }
+]

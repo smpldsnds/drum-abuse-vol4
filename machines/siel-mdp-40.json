@@ -1,0 +1,122 @@
+{
+  "id": "siel-mdp-40",
+  "name": "Siel MDP-40",
+  "manufacturer": "Siel",
+  "collection": "Europe",
+  "country": "Italy",
+  "images": [
+    "Siel MDP-40.jpg"
+  ],
+  "release_year": 1984,
+  "release_year_approx": true,
+  "discontinued_year": 1988,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "vintage",
+    "rare"
+  ],
+  "notes": "Vintage Italian drum machine; rare",
+  "instruments": [
+    "Cabasa",
+    "Clap",
+    "Cowbell",
+    "Cymbal",
+    "Hi-Hat Closed",
+    "Kick",
+    "Rim",
+    "Snare",
+    "Tom"
+  ],
+  "num_sets": 2,
+  "num_samples": 23,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "siel-mdp-40/1",
+      "num_samples": 10,
+      "instruments": [
+        "Cabasa",
+        "Clap",
+        "Cowbell",
+        "Cymbal",
+        "Hi-Hat Closed",
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "Bassdrum.wav",
+        "Cabasa.wav",
+        "Clap.wav",
+        "Cowbell.wav",
+        "Cymbal.wav",
+        "HiHatClosed.wav",
+        "HiHatOpen.wav",
+        "Rimshot.wav",
+        "Snare.wav",
+        "Tom.wav"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Cabasa",
+        "Clap",
+        "Cowbell",
+        "Cymbal",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Rim",
+        "Snare",
+        "Tom"
+      ]
+    },
+    {
+      "path": "2",
+      "set": "2",
+      "url_path": "siel-mdp-40/2",
+      "num_samples": 13,
+      "instruments": [
+        "Cabasa",
+        "Clap",
+        "Hi-Hat Closed",
+        "Kick",
+        "Rim",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "BD_1.wav",
+        "BD_2.wav",
+        "Cabasa.wav",
+        "Clap.wav",
+        "Cwbell.wav",
+        "HH_1.wav",
+        "HH_2.wav",
+        "HH_3.wav",
+        "Rimshot.wav",
+        "Snare1.wav",
+        "Snare2.wav",
+        "Symb.wav",
+        "Tom.wav"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Kick",
+        "Cabasa",
+        "Clap",
+        "",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Hi-Hat Closed",
+        "Rim",
+        "Snare",
+        "Snare",
+        "",
+        "Tom"
+      ]
+    }
+  ],
+  "total_bytes": 9883024
+}

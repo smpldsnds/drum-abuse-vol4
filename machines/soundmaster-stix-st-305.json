@@ -1,0 +1,61 @@
+{
+  "id": "soundmaster-stix-st-305",
+  "name": "SoundMaster Stix ST-305",
+  "manufacturer": "SoundMaster",
+  "collection": "Japan",
+  "country": null,
+  "images": [
+    "SoundMaster Stix ST-305.jpg"
+  ],
+  "release_year": 1984,
+  "release_year_approx": true,
+  "discontinued_year": 1988,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "vintage",
+    "rare"
+  ],
+  "notes": "Budget drum machine; rare",
+  "instruments": [
+    "Cymbal",
+    "Kick",
+    "Snare",
+    "Tom"
+  ],
+  "num_sets": 1,
+  "num_samples": 7,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "soundmaster-stix-st-305/1",
+      "num_samples": 7,
+      "instruments": [
+        "Cymbal",
+        "Kick",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "CH1.wav",
+        "Cymbal1.wav",
+        "HiTom1.wav",
+        "LoTom1.wav",
+        "OH1.wav",
+        "Snare1.wav",
+        "kick1.wav"
+      ],
+      "sample_instruments": [
+        "",
+        "Cymbal",
+        "Tom",
+        "Tom",
+        "",
+        "Snare",
+        "Kick"
+      ]
+    }
+  ],
+  "total_bytes": 243136
+}

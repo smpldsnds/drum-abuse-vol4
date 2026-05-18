@@ -1,0 +1,68 @@
+{
+  "id": "kurzweil-electrodrum-prototype",
+  "name": "Kurzweil ElectroDrum Prototype",
+  "manufacturer": "Kurzweil",
+  "collection": "Usa_Uk",
+  "country": null,
+  "images": [],
+  "release_year": 1984,
+  "release_year_approx": true,
+  "discontinued_year": null,
+  "discontinued_year_approx": false,
+  "current_production": false,
+  "tags": [
+    "vintage",
+    "very_rare",
+    "prototype"
+  ],
+  "notes": "Prototype only; extremely rare",
+  "instruments": [
+    "Kick",
+    "Perc"
+  ],
+  "num_sets": 1,
+  "num_samples": 13,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "kurzweil-electrodrum-prototype/1",
+      "num_samples": 13,
+      "instruments": [
+        "Kick",
+        "Perc"
+      ],
+      "samples": [
+        "Drum1.wav",
+        "Drum10.wav",
+        "Drum11.wav",
+        "Drum12.wav",
+        "Drum2.wav",
+        "Drum3.wav",
+        "Drum4.wav",
+        "Drum5.wav",
+        "Drum6.wav",
+        "Drum7.wav",
+        "Drum8.wav",
+        "Drum9.wav",
+        "Kick.wav"
+      ],
+      "sample_instruments": [
+        "Perc",
+        "Perc",
+        "Perc",
+        "Perc",
+        "Perc",
+        "Perc",
+        "Perc",
+        "Perc",
+        "Perc",
+        "Perc",
+        "Perc",
+        "Perc",
+        "Kick"
+      ]
+    }
+  ],
+  "total_bytes": 581010
+}

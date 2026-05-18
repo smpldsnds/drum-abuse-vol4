@@ -1,0 +1,3138 @@
+[
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/8bit Degraded [Mono]",
+    "file": "MT500 Open Hi Hat [Bit 1].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/8bit Degraded [Mono]",
+    "file": "MT500 Open Hi Hat [Bit 2].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/8bit Degraded [Mono]",
+    "file": "MT500 Open Hi Hat [Bit 3].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/8bit Degraded [Mono]",
+    "file": "MT500 Open Hi Hat [Bit 4].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/8bit Degraded [Mono]",
+    "file": "MT500 Open Hi Hat [Bit 5].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/Dry",
+    "file": "MT500 Open Hi Hat.wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/Glitch & Distort",
+    "file": "MT500 Open Hi Hat [Dist 1].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/Glitch & Distort",
+    "file": "MT500 Open Hi Hat [Dist 2].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/Glitch & Distort",
+    "file": "MT500 Open Hi Hat [Dist 3].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/Slammed",
+    "file": "MT500 Open Hi Hat [Slam].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/Wet",
+    "file": "MT500 Open Hi Hat [Close].wav"
+  },
+  {
+    "machine_id": "casio-mt-500",
+    "machine_name": "Casio MT-500",
+    "release_year": 1984,
+    "url_path": "casio-mt-500/2/Wet",
+    "file": "MT500 Open Hi Hat [Long].wav"
+  },
+  {
+    "machine_id": "dr-b-hm-digital-drums",
+    "machine_name": "Dr. Böhm Digital Drums",
+    "release_year": 1984,
+    "url_path": "dr-b-hm-digital-drums/1",
+    "file": "Bohm_HHo_C2A.wav"
+  },
+  {
+    "machine_id": "dr-b-hm-digital-drums",
+    "machine_name": "Dr. Böhm Digital Drums",
+    "release_year": 1984,
+    "url_path": "dr-b-hm-digital-drums/1",
+    "file": "Bohm_HHo_T1A.wav"
+  },
+  {
+    "machine_id": "dr-b-hm-digital-drums",
+    "machine_name": "Dr. Böhm Digital Drums",
+    "release_year": 1984,
+    "url_path": "dr-b-hm-digital-drums/1",
+    "file": "Bohm_HHo_X.wav"
+  },
+  {
+    "machine_id": "dr-b-hm-digital-drums",
+    "machine_name": "Dr. Böhm Digital Drums",
+    "release_year": 1984,
+    "url_path": "dr-b-hm-digital-drums/1",
+    "file": "Bohm_HHo_aOrig.wav"
+  },
+  {
+    "machine_id": "klone-dual-percussion-synthesiser",
+    "machine_name": "Klone Dual Percussion Synthesiser",
+    "release_year": 1984,
+    "url_path": "klone-dual-percussion-synthesiser/6/KLONE HHAT NW8",
+    "file": "C_OPHT1.wav"
+  },
+  {
+    "machine_id": "klone-dual-percussion-synthesiser",
+    "machine_name": "Klone Dual Percussion Synthesiser",
+    "release_year": 1984,
+    "url_path": "klone-dual-percussion-synthesiser/6/KLONE HHAT NW8",
+    "file": "C_OPHT2.wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/8bit Degraded [Mono]",
+    "file": "PSS50 Open Hi Hat [Bit 1].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/8bit Degraded [Mono]",
+    "file": "PSS50 Open Hi Hat [Bit 2].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/8bit Degraded [Mono]",
+    "file": "PSS50 Open Hi Hat [Bit 3].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/8bit Degraded [Mono]",
+    "file": "PSS50 Open Hi Hat [Bit 4].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/8bit Degraded [Mono]",
+    "file": "PSS50 Open Hi Hat [Bit 5].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/Dry",
+    "file": "PSS50 Open Hi Hat.wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/Glitch & Distort",
+    "file": "PSS50 Open Hi Hat [Dist 1].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/Glitch & Distort",
+    "file": "PSS50 Open Hi Hat [Dist 2].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/Glitch & Distort",
+    "file": "PSS50 Open Hi Hat [Dist 3].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/Slammed",
+    "file": "PSS50 Open Hi Hat [Slam].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/Wet",
+    "file": "PSS50 Open Hi Hat [Close].wav"
+  },
+  {
+    "machine_id": "korg-pss-50",
+    "machine_name": "Korg PSS-50",
+    "release_year": 1984,
+    "url_path": "korg-pss-50/2/Wet",
+    "file": "PSS50 Open Hi Hat [Long].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/1",
+    "file": "Oph2.wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/1",
+    "file": "Ophh 2.wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/1",
+    "file": "Ophh 3.wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/1",
+    "file": "Ophh.wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/1",
+    "file": "Ophh_1.wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 1 [Bit 1].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 1 [Bit 2].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 1 [Bit 3].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 1 [Bit 4].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 1 [Bit 5].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 2 [Bit 1].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 2 [Bit 2].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 2 [Bit 3].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 2 [Bit 4].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 2 [Bit 5].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 3 [Bit 1].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 3 [Bit 2].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 3 [Bit 3].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 3 [Bit 4].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 3 [Bit 5].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 4 [Bit 1].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 4 [Bit 2].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 4 [Bit 3].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 4 [Bit 4].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/8bit Degraded [Mono]",
+    "file": "9000 Open Hi Hat 4 [Bit 5].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Dry",
+    "file": "9000 Open Hi Hat 1.wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Dry",
+    "file": "9000 Open Hi Hat 2.wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Dry",
+    "file": "9000 Open Hi Hat 3.wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Dry",
+    "file": "9000 Open Hi Hat 4.wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Open Hi Hat 1 [Dist 1].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Open Hi Hat 1 [Dist 2].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Open Hi Hat 1 [Dist 3].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Open Hi Hat 2 [Dist 1].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Open Hi Hat 2 [Dist 2].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Open Hi Hat 2 [Dist 3].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Open Hi Hat 3 [Dist 1].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Open Hi Hat 3 [Dist 2].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Open Hi Hat 3 [Dist 3].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Open Hi Hat 4 [Dist 1].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Open Hi Hat 4 [Dist 2].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Glitch & Distort",
+    "file": "9000 Open Hi Hat 4 [Dist 3].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Slammed",
+    "file": "9000 Open Hi Hat 1 [Slam].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Slammed",
+    "file": "9000 Open Hi Hat 2 [Slam].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Slammed",
+    "file": "9000 Open Hi Hat 3 [Slam].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Slammed",
+    "file": "9000 Open Hi Hat 4 [Slam].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Wet",
+    "file": "9000 Open Hi Hat 1 [Close].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Wet",
+    "file": "9000 Open Hi Hat 1 [Long].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Wet",
+    "file": "9000 Open Hi Hat 2 [Close].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Wet",
+    "file": "9000 Open Hi Hat 2 [Long].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Wet",
+    "file": "9000 Open Hi Hat 3 [Close].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Wet",
+    "file": "9000 Open Hi Hat 3 [Long].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Wet",
+    "file": "9000 Open Hi Hat 4 [Close].wav"
+  },
+  {
+    "machine_id": "linn-9000",
+    "machine_name": "Linn 9000",
+    "release_year": 1984,
+    "url_path": "linn-9000/2/Wet",
+    "file": "9000 Open Hi Hat 4 [Long].wav"
+  },
+  {
+    "machine_id": "linn-linndrum-lm-2-vinyl",
+    "machine_name": "Linn LinnDrum LM-2 Vinyl",
+    "release_year": 1984,
+    "url_path": "linn-linndrum-lm-2-vinyl/1",
+    "file": "VinylLinnDrum_HHo_01_Handy.wav"
+  },
+  {
+    "machine_id": "linn-linndrum-lm-2-vinyl",
+    "machine_name": "Linn LinnDrum LM-2 Vinyl",
+    "release_year": 1984,
+    "url_path": "linn-linndrum-lm-2-vinyl/1",
+    "file": "VinylLinnDrum_HHo_01_PJPJ.wav"
+  },
+  {
+    "machine_id": "linn-linndrum-lm-2-vinyl",
+    "machine_name": "Linn LinnDrum LM-2 Vinyl",
+    "release_year": 1984,
+    "url_path": "linn-linndrum-lm-2-vinyl/1",
+    "file": "VinylLinnDrum_HHo_01_TechVari.wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/1",
+    "file": "Hat Open.wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/8bit Degraded [Mono]",
+    "file": "DX Open Hi Hat [Bit 1].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/8bit Degraded [Mono]",
+    "file": "DX Open Hi Hat [Bit 2].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/8bit Degraded [Mono]",
+    "file": "DX Open Hi Hat [Bit 3].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/8bit Degraded [Mono]",
+    "file": "DX Open Hi Hat [Bit 4].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/8bit Degraded [Mono]",
+    "file": "DX Open Hi Hat [Bit 5].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/Dry",
+    "file": "DX Open Hi Hat.wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/Glitch & Distort",
+    "file": "DX Open Hi Hat [Dist 1].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/Glitch & Distort",
+    "file": "DX Open Hi Hat [Dist 2].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/Glitch & Distort",
+    "file": "DX Open Hi Hat [Dist 3].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/Slammed",
+    "file": "DX Open Hi Hat [Slam].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/Wet",
+    "file": "DX Open Hi Hat [Close].wav"
+  },
+  {
+    "machine_id": "oberheim-dx",
+    "machine_name": "Oberheim DX",
+    "release_year": 1984,
+    "url_path": "oberheim-dx/2/Wet",
+    "file": "DX Open Hi Hat [Long].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Open Hi Hat 1 [Bit 1].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Open Hi Hat 1 [Bit 2].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Open Hi Hat 1 [Bit 3].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Open Hi Hat 1 [Bit 4].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Open Hi Hat 1 [Bit 5].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Open hi Hat 2 [Bit 1].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Open hi Hat 2 [Bit 2].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Open hi Hat 2 [Bit 3].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Open hi Hat 2 [Bit 4].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/8bit Degraded [Mono]",
+    "file": "JUNO Open hi Hat 2 [Bit 5].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Dry",
+    "file": "JUNO Open Hi Hat 1.wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Dry",
+    "file": "JUNO Open hi Hat 2.wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Glitch & Distort",
+    "file": "JUNO Open Hi Hat 1 [Dist 1].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Glitch & Distort",
+    "file": "JUNO Open Hi Hat 1 [Dist 2].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Glitch & Distort",
+    "file": "JUNO Open Hi Hat 1 [Dist 3].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Glitch & Distort",
+    "file": "JUNO Open hi Hat 2 [Dist 1].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Glitch & Distort",
+    "file": "JUNO Open hi Hat 2 [Dist 2].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Glitch & Distort",
+    "file": "JUNO Open hi Hat 2 [Dist 3].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Slammed",
+    "file": "JUNO Open Hi Hat 1 [Slam].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Slammed",
+    "file": "JUNO Open hi Hat 2 [Slam].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Wet",
+    "file": "JUNO Open Hi Hat 1 [Close].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Wet",
+    "file": "JUNO Open Hi Hat 1 [Long].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Wet",
+    "file": "JUNO Open hi Hat 2 [Close].wav"
+  },
+  {
+    "machine_id": "roland-juno-106",
+    "machine_name": "Roland Juno-106",
+    "release_year": 1984,
+    "url_path": "roland-juno-106/2/Wet",
+    "file": "JUNO Open hi Hat 2 [Long].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/2",
+    "file": "707_HHO.WAV"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/8bit Degraded [Mono]",
+    "file": "TR707 Open Hi Hat [Bit 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/8bit Degraded [Mono]",
+    "file": "TR707 Open Hi Hat [Bit 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/8bit Degraded [Mono]",
+    "file": "TR707 Open Hi Hat [Bit 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/8bit Degraded [Mono]",
+    "file": "TR707 Open Hi Hat [Bit 4].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/8bit Degraded [Mono]",
+    "file": "TR707 Open Hi Hat [Bit 5].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/Dry",
+    "file": "TR707 Open Hi Hat.wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/Glitch & Distort",
+    "file": "TR707 Open Hi Hat [Dist 1].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/Glitch & Distort",
+    "file": "TR707 Open Hi Hat [Dist 2].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/Glitch & Distort",
+    "file": "TR707 Open Hi Hat [Dist 3].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/Slammed",
+    "file": "TR707 Open Hi Hat [Slam].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/Wet",
+    "file": "TR707 Open Hi Hat [Close].wav"
+  },
+  {
+    "machine_id": "roland-tr-707",
+    "machine_name": "Roland TR-707",
+    "release_year": 1984,
+    "url_path": "roland-tr-707/4/Wet",
+    "file": "TR707 Open Hi Hat [Long].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/1",
+    "file": "OPHAT1_YAMAHA_Rx11.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/1",
+    "file": "OPHAT2_YAMAHA_Rx11.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/8bit Degraded [Mono]",
+    "file": "RX11 Open Hi Hat [Bit 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/8bit Degraded [Mono]",
+    "file": "RX11 Open Hi Hat [Bit 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/8bit Degraded [Mono]",
+    "file": "RX11 Open Hi Hat [Bit 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/8bit Degraded [Mono]",
+    "file": "RX11 Open Hi Hat [Bit 4].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/8bit Degraded [Mono]",
+    "file": "RX11 Open Hi Hat [Bit 5].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/Dry",
+    "file": "RX11 Open Hi Hat.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/Glitch & Distort",
+    "file": "RX11 Open Hi Hat [Dist 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/Glitch & Distort",
+    "file": "RX11 Open Hi Hat [Dist 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/Glitch & Distort",
+    "file": "RX11 Open Hi Hat [Dist 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/Slammed",
+    "file": "RX11 Open Hi Hat [Slam].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/Wet",
+    "file": "RX11 Open Hi Hat [Close].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/2/Wet",
+    "file": "RX11 Open Hi Hat [Long].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/4",
+    "file": "Ophat1.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-11",
+    "machine_name": "Yamaha RX-11",
+    "release_year": 1984,
+    "url_path": "yamaha-rx-11/4",
+    "file": "Ophat2.wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/8bit Degraded [Mono]",
+    "file": "MT800 Open Hi Hat [Bit 1].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/8bit Degraded [Mono]",
+    "file": "MT800 Open Hi Hat [Bit 2].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/8bit Degraded [Mono]",
+    "file": "MT800 Open Hi Hat [Bit 3].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/8bit Degraded [Mono]",
+    "file": "MT800 Open Hi Hat [Bit 4].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/8bit Degraded [Mono]",
+    "file": "MT800 Open Hi Hat [Bit 5].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/Dry",
+    "file": "MT800 Open Hi Hat.wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/Glitch & Distort",
+    "file": "MT800 Open Hi Hat [Dist 1].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/Glitch & Distort",
+    "file": "MT800 Open Hi Hat [Dist 2].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/Glitch & Distort",
+    "file": "MT800 Open Hi Hat [Dist 3].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/Slammed",
+    "file": "MT800 Open Hi Hat [Slam].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/Wet",
+    "file": "MT800 Open Hi Hat [Close].wav"
+  },
+  {
+    "machine_id": "casio-mt-800",
+    "machine_name": "Casio MT-800",
+    "release_year": 1985,
+    "url_path": "casio-mt-800/2/Wet",
+    "file": "MT800 Open Hi Hat [Long].wav"
+  },
+  {
+    "machine_id": "casio-pt-68",
+    "machine_name": "Casio PT-68",
+    "release_year": 1985,
+    "url_path": "casio-pt-68/1/8bit Degraded [Mono]",
+    "file": "PT68 Open Hi Hat [Bit 1].wav"
+  },
+  {
+    "machine_id": "casio-pt-68",
+    "machine_name": "Casio PT-68",
+    "release_year": 1985,
+    "url_path": "casio-pt-68/1/8bit Degraded [Mono]",
+    "file": "PT68 Open Hi Hat [Bit 2].wav"
+  },
+  {
+    "machine_id": "casio-pt-68",
+    "machine_name": "Casio PT-68",
+    "release_year": 1985,
+    "url_path": "casio-pt-68/1/8bit Degraded [Mono]",
+    "file": "PT68 Open Hi Hat [Bit 3].wav"
+  },
+  {
+    "machine_id": "casio-pt-68",
+    "machine_name": "Casio PT-68",
+    "release_year": 1985,
+    "url_path": "casio-pt-68/1/8bit Degraded [Mono]",
+    "file": "PT68 Open Hi Hat [Bit 4].wav"
+  },
+  {
+    "machine_id": "casio-pt-68",
+    "machine_name": "Casio PT-68",
+    "release_year": 1985,
+    "url_path": "casio-pt-68/1/8bit Degraded [Mono]",
+    "file": "PT68 Open Hi Hat [Bit 5].wav"
+  },
+  {
+    "machine_id": "casio-pt-68",
+    "machine_name": "Casio PT-68",
+    "release_year": 1985,
+    "url_path": "casio-pt-68/1/Dry",
+    "file": "PT68 Open Hi Hat.wav"
+  },
+  {
+    "machine_id": "casio-pt-68",
+    "machine_name": "Casio PT-68",
+    "release_year": 1985,
+    "url_path": "casio-pt-68/1/Glitch & Distort",
+    "file": "PT68 Open Hi Hat [Dist 1].wav"
+  },
+  {
+    "machine_id": "casio-pt-68",
+    "machine_name": "Casio PT-68",
+    "release_year": 1985,
+    "url_path": "casio-pt-68/1/Glitch & Distort",
+    "file": "PT68 Open Hi Hat [Dist 2].wav"
+  },
+  {
+    "machine_id": "casio-pt-68",
+    "machine_name": "Casio PT-68",
+    "release_year": 1985,
+    "url_path": "casio-pt-68/1/Glitch & Distort",
+    "file": "PT68 Open Hi Hat [Dist 3].wav"
+  },
+  {
+    "machine_id": "casio-pt-68",
+    "machine_name": "Casio PT-68",
+    "release_year": 1985,
+    "url_path": "casio-pt-68/1/Slammed",
+    "file": "PT68 Open Hi Hat [Slam].wav"
+  },
+  {
+    "machine_id": "casio-pt-68",
+    "machine_name": "Casio PT-68",
+    "release_year": 1985,
+    "url_path": "casio-pt-68/1/Wet",
+    "file": "PT68 Open Hi Hat [Close].wav"
+  },
+  {
+    "machine_id": "casio-pt-68",
+    "machine_name": "Casio PT-68",
+    "release_year": 1985,
+    "url_path": "casio-pt-68/1/Wet",
+    "file": "PT68 Open Hi Hat [Long].wav"
+  },
+  {
+    "machine_id": "casio-sk-1",
+    "machine_name": "Casio SK-1",
+    "release_year": 1985,
+    "url_path": "casio-sk-1/1",
+    "file": "Ohh.wav"
+  },
+  {
+    "machine_id": "casio-sk-1",
+    "machine_name": "Casio SK-1",
+    "release_year": 1985,
+    "url_path": "casio-sk-1/1",
+    "file": "Ophat.wav"
+  },
+  {
+    "machine_id": "casio-sk-1",
+    "machine_name": "Casio SK-1",
+    "release_year": 1985,
+    "url_path": "casio-sk-1/3/8bit Degraded [Mono]",
+    "file": "SK1 Open Hi Hat [Bit 1].wav"
+  },
+  {
+    "machine_id": "casio-sk-1",
+    "machine_name": "Casio SK-1",
+    "release_year": 1985,
+    "url_path": "casio-sk-1/3/8bit Degraded [Mono]",
+    "file": "SK1 Open Hi Hat [Bit 2].wav"
+  },
+  {
+    "machine_id": "casio-sk-1",
+    "machine_name": "Casio SK-1",
+    "release_year": 1985,
+    "url_path": "casio-sk-1/3/8bit Degraded [Mono]",
+    "file": "SK1 Open Hi Hat [Bit 3].wav"
+  },
+  {
+    "machine_id": "casio-sk-1",
+    "machine_name": "Casio SK-1",
+    "release_year": 1985,
+    "url_path": "casio-sk-1/3/8bit Degraded [Mono]",
+    "file": "SK1 Open Hi Hat [Bit 4].wav"
+  },
+  {
+    "machine_id": "casio-sk-1",
+    "machine_name": "Casio SK-1",
+    "release_year": 1985,
+    "url_path": "casio-sk-1/3/8bit Degraded [Mono]",
+    "file": "SK1 Open Hi Hat [Bit 5].wav"
+  },
+  {
+    "machine_id": "casio-sk-1",
+    "machine_name": "Casio SK-1",
+    "release_year": 1985,
+    "url_path": "casio-sk-1/3/Dry",
+    "file": "SK1 Open Hi Hat.wav"
+  },
+  {
+    "machine_id": "casio-sk-1",
+    "machine_name": "Casio SK-1",
+    "release_year": 1985,
+    "url_path": "casio-sk-1/3/Glitch & Distort",
+    "file": "SK1 Open Hi Hat [Dist 1].wav"
+  },
+  {
+    "machine_id": "casio-sk-1",
+    "machine_name": "Casio SK-1",
+    "release_year": 1985,
+    "url_path": "casio-sk-1/3/Glitch & Distort",
+    "file": "SK1 Open Hi Hat [Dist 2].wav"
+  },
+  {
+    "machine_id": "casio-sk-1",
+    "machine_name": "Casio SK-1",
+    "release_year": 1985,
+    "url_path": "casio-sk-1/3/Glitch & Distort",
+    "file": "SK1 Open Hi Hat [Dist 3].wav"
+  },
+  {
+    "machine_id": "casio-sk-1",
+    "machine_name": "Casio SK-1",
+    "release_year": 1985,
+    "url_path": "casio-sk-1/3/Slammed",
+    "file": "SK1 Open Hi Hat [Slam].wav"
+  },
+  {
+    "machine_id": "casio-sk-1",
+    "machine_name": "Casio SK-1",
+    "release_year": 1985,
+    "url_path": "casio-sk-1/3/Wet",
+    "file": "SK1 Open Hi Hat [Close].wav"
+  },
+  {
+    "machine_id": "casio-sk-1",
+    "machine_name": "Casio SK-1",
+    "release_year": 1985,
+    "url_path": "casio-sk-1/3/Wet",
+    "file": "SK1 Open Hi Hat [Long].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/8bit Degraded [Mono]",
+    "file": "SP12 Metal Open Hi Hat [Bit 1].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/8bit Degraded [Mono]",
+    "file": "SP12 Metal Open Hi Hat [Bit 2].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/8bit Degraded [Mono]",
+    "file": "SP12 Metal Open Hi Hat [Bit 3].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/8bit Degraded [Mono]",
+    "file": "SP12 Metal Open Hi Hat [Bit 4].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/8bit Degraded [Mono]",
+    "file": "SP12 Metal Open Hi Hat [Bit 5].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/8bit Degraded [Mono]",
+    "file": "SP12 Open Hi Hat [Bit 1].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/8bit Degraded [Mono]",
+    "file": "SP12 Open Hi Hat [Bit 2].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/8bit Degraded [Mono]",
+    "file": "SP12 Open Hi Hat [Bit 3].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/8bit Degraded [Mono]",
+    "file": "SP12 Open Hi Hat [Bit 4].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/8bit Degraded [Mono]",
+    "file": "SP12 Open Hi Hat [Bit 5].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Dry",
+    "file": "SP12 Metal Open Hi Hat.wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Dry",
+    "file": "SP12 Open Hi Hat.wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Glitch & Distort",
+    "file": "SP12 Metal Open Hi Hat [Dist 1].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Glitch & Distort",
+    "file": "SP12 Metal Open Hi Hat [Dist 2].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Glitch & Distort",
+    "file": "SP12 Metal Open Hi Hat [Dist 3].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Glitch & Distort",
+    "file": "SP12 Open Hi Hat [Dist 1].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Glitch & Distort",
+    "file": "SP12 Open Hi Hat [Dist 2].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Glitch & Distort",
+    "file": "SP12 Open Hi Hat [Dist 3].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Slammed",
+    "file": "SP12 Metal Open Hi Hat [Slam].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Slammed",
+    "file": "SP12 Open Hi Hat [Slam].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Wet",
+    "file": "SP12 Metal Open Hi Hat [Close].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Wet",
+    "file": "SP12 Metal Open Hi Hat [Long].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Wet",
+    "file": "SP12 Open Hi Hat [Close].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/2/Wet",
+    "file": "SP12 Open Hi Hat [Long].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/4",
+    "file": "VinylSP12_HHo_01_Handy.wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/4",
+    "file": "VinylSP12_HHo_01_PJPJ.wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/4",
+    "file": "VinylSP12_HHo_01_TechVari.wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP Open Hi Hat [Bit 1].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP Open Hi Hat [Bit 2].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP Open Hi Hat [Bit 3].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP Open Hi Hat [Bit 4].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/8bit Degraded [Mono]",
+    "file": "SP Open Hi Hat [Bit 5].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Dry",
+    "file": "SP Open Hi Hat.wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Glitch & Distort",
+    "file": "SP Open Hi Hat [Dist 1].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Glitch & Distort",
+    "file": "SP Open Hi Hat [Dist 2].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Glitch & Distort",
+    "file": "SP Open Hi Hat [Dist 3].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Slammed",
+    "file": "SP Open Hi Hat [Slam].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Wet",
+    "file": "SP Open Hi Hat [Close].wav"
+  },
+  {
+    "machine_id": "emu-sp-12",
+    "machine_name": "EMU SP-12",
+    "release_year": 1985,
+    "url_path": "emu-sp-12/6/SP-1200 [Percussion]/Wet",
+    "file": "SP Open Hi Hat [Long].wav"
+  },
+  {
+    "machine_id": "ensoniq-mirage",
+    "machine_name": "Ensoniq Mirage",
+    "release_year": 1985,
+    "url_path": "ensoniq-mirage/1",
+    "file": "Hat Open 1a.wav"
+  },
+  {
+    "machine_id": "ensoniq-mirage",
+    "machine_name": "Ensoniq Mirage",
+    "release_year": 1985,
+    "url_path": "ensoniq-mirage/1",
+    "file": "Hat Open 1b.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Open Hi Hat 1 [Bit 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Open Hi Hat 1 [Bit 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Open Hi Hat 1 [Bit 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Open Hi Hat 1 [Bit 4].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Open Hi Hat 1 [Bit 5].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Open Hi Hat 2 [Bit 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Open Hi Hat 2 [Bit 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Open Hi Hat 2 [Bit 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Open Hi Hat 2 [Bit 4].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Open Hi Hat 2 [Bit 5].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Open Hi Hat 3 [Bit 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Open Hi Hat 3 [Bit 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Open Hi Hat 3 [Bit 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Open Hi Hat 3 [Bit 4].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/8bit Degraded [Mono]",
+    "file": "DDD1 Open Hi Hat 3 [Bit 5].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Dry",
+    "file": "DDD1 Open Hi Hat 1.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Dry",
+    "file": "DDD1 Open Hi Hat 2.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Dry",
+    "file": "DDD1 Open Hi Hat 3.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Glitch & Distort",
+    "file": "DDD1 Open Hi Hat 1 [Dist 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Glitch & Distort",
+    "file": "DDD1 Open Hi Hat 1 [Dist 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Glitch & Distort",
+    "file": "DDD1 Open Hi Hat 1 [Dist 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Glitch & Distort",
+    "file": "DDD1 Open Hi Hat 2 [Dist 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Glitch & Distort",
+    "file": "DDD1 Open Hi Hat 2 [Dist 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Glitch & Distort",
+    "file": "DDD1 Open Hi Hat 2 [Dist 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Glitch & Distort",
+    "file": "DDD1 Open Hi Hat 3 [Dist 1].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Glitch & Distort",
+    "file": "DDD1 Open Hi Hat 3 [Dist 2].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Glitch & Distort",
+    "file": "DDD1 Open Hi Hat 3 [Dist 3].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Slammed",
+    "file": "DDD1 Open Hi Hat 1 [Slam].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Slammed",
+    "file": "DDD1 Open Hi Hat 2 [Slam].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Slammed",
+    "file": "DDD1 Open Hi Hat 3 [Slam].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Wet",
+    "file": "DDD1 Open Hi Hat 1 [Close].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Wet",
+    "file": "DDD1 Open Hi Hat 1 [Long].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Wet",
+    "file": "DDD1 Open Hi Hat 2 [Close].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Wet",
+    "file": "DDD1 Open Hi Hat 2 [Long].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Wet",
+    "file": "DDD1 Open Hi Hat 3 [Close].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/2/Wet",
+    "file": "DDD1 Open Hi Hat 3 [Long].wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-1.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-10.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-11.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-12.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-13.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-14.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-15.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-16.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-17.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-18.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-19.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-2.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-20.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-21.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-22.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-23.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-24.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-25.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-26.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-27.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-28.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-29.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-3.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-30.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-31.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-32.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-33.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-34.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-35.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-36.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-37.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-38.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-39.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-4.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-40.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-41.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-42.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-43.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-44.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-45.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-46.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-47.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-48.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-49.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-5.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-50.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-51.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-52.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-53.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-54.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-55.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-56.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-57.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-58.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-59.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-6.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-60.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-61.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-62.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-63.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-64.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-7.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-8.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 1",
+    "file": "DDD1 Open Hat 1-9.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-1.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-10.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-11.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-12.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-13.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-14.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-15.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-16.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-17.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-18.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-19.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-2.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-20.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-21.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-22.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-23.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-24.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-25.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-26.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-27.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-28.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-29.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-3.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-30.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-31.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-32.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-33.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-34.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-35.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-36.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-37.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-38.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-39.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-4.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-40.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-41.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-42.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-43.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-44.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-45.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-46.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-47.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-48.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-49.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-5.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-50.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-51.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-52.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-53.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-54.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-55.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-56.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-57.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-58.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-59.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-6.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-60.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-61.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-62.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-63.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-64.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-7.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-8.wav"
+  },
+  {
+    "machine_id": "korg-ddd-1",
+    "machine_name": "Korg DDD-1",
+    "release_year": 1985,
+    "url_path": "korg-ddd-1/4/DDD-1 Sample Pack/Samples/Open Hat 2",
+    "file": "DDD1 Open Hat 2-9.wav"
+  },
+  {
+    "machine_id": "roland-super-quartet-mks-7",
+    "machine_name": "Roland Super Quartet MKS-7",
+    "release_year": 1985,
+    "url_path": "roland-super-quartet-mks-7/1",
+    "file": "mks_open_hat_Roland_MKS7.wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/2",
+    "file": "727bngoh.wav"
+  },
+  {
+    "machine_id": "roland-tr-727",
+    "machine_name": "Roland TR-727",
+    "release_year": 1985,
+    "url_path": "roland-tr-727/5/different set",
+    "file": "Bngoh.wav"
+  },
+  {
+    "machine_id": "technics-pcm-dp-50",
+    "machine_name": "Technics PCM DP-50",
+    "release_year": 1985,
+    "url_path": "technics-pcm-dp-50/1",
+    "file": "Ohh.wav"
+  },
+  {
+    "machine_id": "wersi-prisma-dx-5",
+    "machine_name": "Wersi Prisma DX-5",
+    "release_year": 1985,
+    "url_path": "wersi-prisma-dx-5/1",
+    "file": "HH open.wav"
+  },
+  {
+    "machine_id": "yamaha-dd-5",
+    "machine_name": "Yamaha DD-5",
+    "release_year": 1985,
+    "url_path": "yamaha-dd-5/1",
+    "file": "HH_Op.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/1",
+    "file": "Ophh.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/8bit Degraded [Mono]",
+    "file": "RX15 Open Hi Hat [Bit 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/8bit Degraded [Mono]",
+    "file": "RX15 Open Hi Hat [Bit 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/8bit Degraded [Mono]",
+    "file": "RX15 Open Hi Hat [Bit 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/8bit Degraded [Mono]",
+    "file": "RX15 Open Hi Hat [Bit 4].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/8bit Degraded [Mono]",
+    "file": "RX15 Open Hi Hat [Bit 5].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Dry",
+    "file": "RX15 Open Hi Hat.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Glitch & Distort",
+    "file": "RX15 Open Hi Hat [Dist 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Glitch & Distort",
+    "file": "RX15 Open Hi Hat [Dist 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Glitch & Distort",
+    "file": "RX15 Open Hi Hat [Dist 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Wet",
+    "file": "RX15 Open Hi Hat [Close].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-15",
+    "machine_name": "Yamaha RX-15",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-15/2/Wet",
+    "file": "RX15 Open Hi Hat [Long].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21",
+    "machine_name": "Yamaha RX-21",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-21/2/8bit Degraded [Mono]",
+    "file": "RX21 Open Hi Hat [Bit 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21",
+    "machine_name": "Yamaha RX-21",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-21/2/8bit Degraded [Mono]",
+    "file": "RX21 Open Hi Hat [Bit 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21",
+    "machine_name": "Yamaha RX-21",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-21/2/8bit Degraded [Mono]",
+    "file": "RX21 Open Hi Hat [Bit 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21",
+    "machine_name": "Yamaha RX-21",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-21/2/8bit Degraded [Mono]",
+    "file": "RX21 Open Hi Hat [Bit 4].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21",
+    "machine_name": "Yamaha RX-21",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-21/2/8bit Degraded [Mono]",
+    "file": "RX21 Open Hi Hat [Bit 5].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21",
+    "machine_name": "Yamaha RX-21",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-21/2/Dry",
+    "file": "RX21 Open Hi Hat.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21",
+    "machine_name": "Yamaha RX-21",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-21/2/Glitch & Distort",
+    "file": "RX21 Open Hi Hat [Dist 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21",
+    "machine_name": "Yamaha RX-21",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-21/2/Glitch & Distort",
+    "file": "RX21 Open Hi Hat [Dist 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21",
+    "machine_name": "Yamaha RX-21",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-21/2/Glitch & Distort",
+    "file": "RX21 Open Hi Hat [Dist 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21",
+    "machine_name": "Yamaha RX-21",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-21/2/Slammed",
+    "file": "RX21 Open Hi Hat [Slam].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21",
+    "machine_name": "Yamaha RX-21",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-21/2/Wet",
+    "file": "RX21 Open Hi Hat [Close].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-21",
+    "machine_name": "Yamaha RX-21",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-21/2/Wet",
+    "file": "RX21 Open Hi Hat [Long].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/8bit Degraded [Mono]",
+    "file": "RX5 Open Hi Hat [Bit 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/8bit Degraded [Mono]",
+    "file": "RX5 Open Hi Hat [Bit 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/8bit Degraded [Mono]",
+    "file": "RX5 Open Hi Hat [Bit 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/8bit Degraded [Mono]",
+    "file": "RX5 Open Hi Hat [Bit 4].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/8bit Degraded [Mono]",
+    "file": "RX5 Open Hi Hat [Bit 5].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Dry",
+    "file": "RX5 Open Hi Hat.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Glitch & Distort",
+    "file": "RX5 Open Hi Hat [Dist 1].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Glitch & Distort",
+    "file": "RX5 Open Hi Hat [Dist 2].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Glitch & Distort",
+    "file": "RX5 Open Hi Hat [Dist 3].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Slammed",
+    "file": "RX5 Open Hi Hat [Slam].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Slammed",
+    "file": "RX5 Open Hi Hat.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Wet",
+    "file": "RX5 Open Hi Hat [Close].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/2/Wet",
+    "file": "RX5 Open Hi Hat [Long].wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_HHo_01_C2A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_HHo_01_T1A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_HHo_01_aOrig.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_HHo_02_C2A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_HHo_02_T1A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/3",
+    "file": "RX5_HHo_02_aOrig.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/4",
+    "file": "RX5_HHo_01_T1A.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/5",
+    "file": "Hh Op 1.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/7/RX5_Kit_01",
+    "file": "RX5_Ophat.wav"
+  },
+  {
+    "machine_id": "yamaha-rx-5",
+    "machine_name": "Yamaha RX-5",
+    "release_year": 1985,
+    "url_path": "yamaha-rx-5/7/RX5_Kit_02",
+    "file": "RX5 HH OP 1.wav"
+  }
+]

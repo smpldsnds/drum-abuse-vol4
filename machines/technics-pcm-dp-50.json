@@ -1,0 +1,93 @@
+{
+  "id": "technics-pcm-dp-50",
+  "name": "Technics PCM DP-50",
+  "manufacturer": "Technics",
+  "collection": "Japan",
+  "country": null,
+  "images": [
+    "Technics PCM DP-50.jpg"
+  ],
+  "release_year": 1985,
+  "release_year_approx": true,
+  "discontinued_year": 1989,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "classic",
+    "rare"
+  ],
+  "notes": "Vintage Technics drum machine; rare",
+  "instruments": [
+    "Clap",
+    "Conga",
+    "Crash",
+    "Hi-Hat Closed",
+    "Hi-Hat Open",
+    "Kick",
+    "Ride",
+    "Rim",
+    "Snare",
+    "Tambourine",
+    "Tom"
+  ],
+  "num_sets": 1,
+  "num_samples": 16,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "technics-pcm-dp-50/1",
+      "num_samples": 16,
+      "instruments": [
+        "Clap",
+        "Conga",
+        "Crash",
+        "Hi-Hat Closed",
+        "Hi-Hat Open",
+        "Kick",
+        "Ride",
+        "Rim",
+        "Snare",
+        "Tambourine",
+        "Tom"
+      ],
+      "samples": [
+        "BassDrum.wav",
+        "Chh.wav",
+        "Clap.wav",
+        "Conga1.wav",
+        "Conga2.wav",
+        "Crash.wav",
+        "Ohh.wav",
+        "Phh.wav",
+        "Ride.wav",
+        "Rim.wav",
+        "Snare.wav",
+        "Tamb.wav",
+        "Tom1.wav",
+        "Tom2.wav",
+        "Tom3.wav",
+        "Tom4.wav"
+      ],
+      "sample_instruments": [
+        "Kick",
+        "Hi-Hat Closed",
+        "Clap",
+        "Conga",
+        "Conga",
+        "Crash",
+        "Hi-Hat Open",
+        "Hi-Hat Closed",
+        "Ride",
+        "Rim",
+        "Snare",
+        "Tambourine",
+        "Tom",
+        "Tom",
+        "Tom",
+        "Tom"
+      ]
+    }
+  ],
+  "total_bytes": 458252
+}

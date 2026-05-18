@@ -1,0 +1,72 @@
+{
+  "id": "kawai-sx-240",
+  "name": "Kawai SX-240",
+  "manufacturer": "Kawai",
+  "collection": "Japan",
+  "country": null,
+  "images": [
+    "Kawai SX-240.jpg"
+  ],
+  "release_year": 1984,
+  "release_year_approx": true,
+  "discontinued_year": 1988,
+  "discontinued_year_approx": true,
+  "current_production": false,
+  "tags": [
+    "vintage"
+  ],
+  "notes": "Analog/digital drum machine; uncommon, vintage",
+  "instruments": [
+    "FX",
+    "Snare",
+    "Tom"
+  ],
+  "num_sets": 1,
+  "num_samples": 14,
+  "sample_sets": [
+    {
+      "path": "1",
+      "set": "1",
+      "url_path": "kawai-sx-240/1",
+      "num_samples": 14,
+      "instruments": [
+        "FX",
+        "Snare",
+        "Tom"
+      ],
+      "samples": [
+        "Bigrez1.wav",
+        "Bigrez2.wav",
+        "Fatbass-C2.wav",
+        "Fatbass-C3.wav",
+        "Fatbass-C4.wav",
+        "Fatbass-G2.wav",
+        "Floortom.wav",
+        "Hightom.wav",
+        "Lowtom.wav",
+        "Medtom.wav",
+        "Ringmod.wav",
+        "Snare1.wav",
+        "Snare2.wav",
+        "Zap.wav"
+      ],
+      "sample_instruments": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tom",
+        "Tom",
+        "Tom",
+        "",
+        "",
+        "Snare",
+        "Snare",
+        "FX"
+      ]
+    }
+  ],
+  "total_bytes": 1854872
+}
